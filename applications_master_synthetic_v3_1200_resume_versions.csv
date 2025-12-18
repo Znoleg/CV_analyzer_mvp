@@ -1,0 +1,1201 @@
+application_id,candidate_id,resume_id,vacancy_title,platform,status_norm,y_interview,application_date,resume_domain,similarity_resume_vacancy,apply_month,apply_dow
+app3_00000,cand_06,R2,Unity Developer (WebGL) - Casual Games,InGameJob,ignore,0,2024-10-18,gamedev,0.557,10,4
+app3_00001,cand_05,R3,Unity Developer - Hypercasual / LiveOps,HH,reject,0,2024-04-25,gamedev,0.65,4,3
+app3_00002,cand_05,R2,Unity Developer (WebGL) - Casual Games,InGameJob,ignore,0,2024-11-20,gamedev,0.552,11,2
+app3_00003,cand_01,R2,Unity Developer (Middle) - Mobile F2P,HH,reject,0,2024-07-17,gamedev,0.506,7,2
+app3_00004,cand_05,R3,Unity Developer (Middle) - Mobile F2P,HH,interview,1,2024-11-01,gamedev,0.843,11,4
+app3_00005,cand_06,R3,Unity Developer (Middle) - Mobile F2P,HH,reject,0,2024-07-06,gamedev,0.677,7,5
+app3_00006,cand_04,R3,Senior Unity Developer - Architecture / Tools,HH,screening,1,2024-06-10,gamedev,0.643,6,0
+app3_00007,cand_05,R1,Unity Developer (WebGL) - Casual Games,InGameJob,reject,0,2024-07-08,gamedev,0.341,7,0
+app3_00008,cand_02,R2,Senior Unity Developer - Architecture / Tools,HH,reject,0,2024-01-29,gamedev,0.635,1,0
+app3_00009,cand_03,R3,Unity Developer (Middle) - Mobile F2P,HH,reject,0,2024-03-15,gamedev,0.59,3,4
+app3_00010,cand_02,R3,Senior Unity Developer - VR/AR,LinkedIn,reject,0,2024-12-12,gamedev,0.541,12,3
+app3_00011,cand_05,R3,Senior Unity Developer - Multiplayer (Photon),LinkedIn,ignore,0,2024-10-11,gamedev,0.481,10,4
+app3_00012,cand_01,R3,Senior Unity Developer - Multiplayer (Photon),LinkedIn,ignore,0,2024-10-20,gamedev,0.681,10,6
+app3_00013,cand_05,R1,Senior Unity Developer - Multiplayer (Photon),LinkedIn,reject,0,2024-10-28,gamedev,0.273,10,0
+app3_00014,cand_05,R1,Unity Developer (Middle) - Mobile F2P,HH,reject,0,2024-01-25,gamedev,0.686,1,3
+app3_00015,cand_01,R2,Senior Unity Developer - VR/AR,LinkedIn,screening,1,2024-07-30,gamedev,0.539,7,1
+app3_00016,cand_04,R3,Senior Unity Developer - VR/AR,LinkedIn,ignore,0,2024-06-16,gamedev,0.709,6,6
+app3_00017,cand_03,R1,Senior Unity Developer - VR/AR,LinkedIn,ignore,0,2024-03-25,gamedev,0.349,3,0
+app3_00018,cand_04,R1,Senior Unity Developer - VR/AR,LinkedIn,ignore,0,2024-02-21,gamedev,0.594,2,2
+app3_00019,cand_05,R1,Senior Unity Developer - Multiplayer (Photon),LinkedIn,reject,0,2024-06-20,gamedev,0.142,6,3
+app3_00020,cand_03,R1,Unity Developer - Hypercasual / LiveOps,HH,screening,1,2024-09-10,gamedev,0.519,9,1
+app3_00021,cand_03,R3,Senior Unity Developer - Architecture / Tools,HH,reject,0,2024-07-12,gamedev,0.699,7,4
+app3_00022,cand_05,R1,Senior Unity Developer - VR/AR,LinkedIn,ignore,0,2024-01-24,gamedev,0.23,1,2
+app3_00023,cand_04,R3,Unity Developer (WebGL) - Casual Games,InGameJob,screening,1,2024-11-16,gamedev,0.616,11,5
+app3_00024,cand_02,R2,Senior Unity Developer - VR/AR,LinkedIn,ignore,0,2024-02-17,gamedev,0.5,2,5
+app3_00025,cand_02,R2,Unity Developer - Hypercasual / LiveOps,HH,reject,0,2024-04-08,gamedev,0.515,4,0
+app3_00026,cand_03,R2,Unity Developer (WebGL) - Casual Games,InGameJob,reject,0,2024-11-16,gamedev,0.462,11,5
+app3_00027,cand_04,R1,Senior Unity Developer - Multiplayer (Photon),LinkedIn,ignore,0,2024-09-14,gamedev,0.406,9,5
+app3_00028,cand_04,R1,Unity Developer - Hypercasual / LiveOps,HH,reject,0,2024-01-08,gamedev,0.312,1,0
+app3_00029,cand_03,R1,Unity Developer - Hypercasual / LiveOps,HH,reject,0,2024-05-14,gamedev,0.454,5,1
+app3_00030,cand_03,R3,Unity Developer - Hypercasual / LiveOps,HH,reject,0,2024-07-08,gamedev,0.675,7,0
+app3_00031,cand_05,R2,Senior Unity Developer - Architecture / Tools,HH,reject,0,2024-02-10,gamedev,0.335,2,5
+app3_00032,cand_05,R2,Unity Developer (WebGL) - Casual Games,InGameJob,ignore,0,2024-07-20,gamedev,0.575,7,5
+app3_00033,cand_04,R1,Senior Unity Developer - VR/AR,LinkedIn,ignore,0,2024-02-05,gamedev,0.707,2,0
+app3_00034,cand_04,R2,Unity Developer (WebGL) - Casual Games,InGameJob,reject,0,2024-03-02,gamedev,0.567,3,5
+app3_00035,cand_03,R3,Senior Unity Developer - Multiplayer (Photon),LinkedIn,reject,0,2024-02-26,gamedev,0.61,2,0
+app3_00036,cand_04,R3,Unity Developer (Middle) - Mobile F2P,HH,ignore,0,2024-03-08,gamedev,0.624,3,4
+app3_00037,cand_06,R3,Senior Unity Developer - Multiplayer (Photon),LinkedIn,ignore,0,2024-09-23,gamedev,0.42,9,0
+app3_00038,cand_02,R3,Senior Unity Developer - VR/AR,LinkedIn,ignore,0,2024-10-27,gamedev,0.672,10,6
+app3_00039,cand_02,R3,Unity Developer - Hypercasual / LiveOps,HH,ignore,0,2024-05-08,gamedev,0.625,5,2
+app3_00040,cand_01,R2,Unity Developer - Hypercasual / LiveOps,HH,ignore,0,2024-02-13,gamedev,0.427,2,1
+app3_00041,cand_03,R2,Unity Developer (WebGL) - Casual Games,InGameJob,reject,0,2024-02-16,gamedev,0.541,2,4
+app3_00042,cand_02,R3,Senior Unity Developer - VR/AR,LinkedIn,reject,0,2024-06-02,gamedev,0.695,6,6
+app3_00043,cand_03,R1,Senior Unity Developer - Architecture / Tools,HH,ignore,0,2024-07-26,gamedev,0.605,7,4
+app3_00044,cand_06,R3,Unity Developer (WebGL) - Casual Games,InGameJob,ignore,0,2024-12-21,gamedev,0.661,12,5
+app3_00045,cand_06,R3,Unity Developer - Hypercasual / LiveOps,HH,reject,0,2024-06-23,gamedev,0.657,6,6
+app3_00046,cand_01,R3,Senior Unity Developer - Architecture / Tools,HH,reject,0,2024-12-23,gamedev,0.636,12,0
+app3_00047,cand_04,R1,Senior Unity Developer - Architecture / Tools,HH,reject,0,2024-08-17,gamedev,0.379,8,5
+app3_00048,cand_06,R2,Senior Unity Developer - VR/AR,LinkedIn,reject,0,2024-05-18,gamedev,0.426,5,5
+app3_00049,cand_02,R3,Unity Developer (WebGL) - Casual Games,InGameJob,ignore,0,2024-09-20,gamedev,0.796,9,4
+app3_00050,cand_03,R1,Senior Unity Developer - VR/AR,LinkedIn,ignore,0,2024-08-19,gamedev,0.4,8,0
+app3_00051,cand_05,R2,Senior Unity Developer - VR/AR,LinkedIn,reject,0,2024-09-23,gamedev,0.407,9,0
+app3_00052,cand_05,R3,Senior Unity Developer - Multiplayer (Photon),LinkedIn,ignore,0,2024-02-02,gamedev,0.475,2,4
+app3_00053,cand_01,R3,Senior Unity Developer - Architecture / Tools,HH,screening,1,2024-04-29,gamedev,0.753,4,0
+app3_00054,cand_05,R3,Unity Developer (WebGL) - Casual Games,InGameJob,screening,1,2024-10-12,gamedev,0.617,10,5
+app3_00055,cand_04,R2,Senior Unity Developer - VR/AR,LinkedIn,ignore,0,2024-12-24,gamedev,0.762,12,1
+app3_00056,cand_05,R1,Unity Developer - Hypercasual / LiveOps,HH,reject,0,2024-09-28,gamedev,0.502,9,5
+app3_00057,cand_06,R3,Senior Unity Developer - VR/AR,LinkedIn,ignore,0,2024-10-19,gamedev,0.484,10,5
+app3_00058,cand_06,R1,Unity Developer - Hypercasual / LiveOps,HH,reject,0,2024-02-28,gamedev,0.566,2,2
+app3_00059,cand_05,R2,Senior Unity Developer - VR/AR,LinkedIn,ignore,0,2024-05-16,gamedev,0.462,5,3
+app3_00060,cand_06,R1,Unity Developer (WebGL) - Casual Games,InGameJob,reject,0,2024-12-05,gamedev,0.353,12,3
+app3_00061,cand_05,R1,Unity Developer - Hypercasual / LiveOps,HH,test,1,2024-06-15,gamedev,0.281,6,5
+app3_00062,cand_05,R1,Senior Unity Developer - Architecture / Tools,HH,ignore,0,2024-03-02,gamedev,0.261,3,5
+app3_00063,cand_04,R1,Unity Developer (Middle) - Mobile F2P,HH,ignore,0,2024-09-08,gamedev,0.397,9,6
+app3_00064,cand_03,R1,Unity Developer (WebGL) - Casual Games,InGameJob,ignore,0,2024-11-29,gamedev,0.348,11,4
+app3_00065,cand_02,R2,Unity Developer (Middle) - Mobile F2P,HH,reject,0,2024-02-07,gamedev,0.525,2,2
+app3_00066,cand_05,R3,Senior Unity Developer - Multiplayer (Photon),LinkedIn,ignore,0,2024-07-06,gamedev,0.438,7,5
+app3_00067,cand_04,R1,Unity Developer - Hypercasual / LiveOps,HH,ignore,0,2024-08-09,gamedev,0.352,8,4
+app3_00068,cand_06,R3,Senior Unity Developer - VR/AR,LinkedIn,screening,1,2024-01-10,gamedev,0.43,1,2
+app3_00069,cand_05,R1,Unity Developer (Middle) - Mobile F2P,HH,reject,0,2024-12-21,gamedev,0.596,12,5
+app3_00070,cand_03,R2,Senior Unity Developer - Architecture / Tools,HH,reject,0,2024-08-16,gamedev,0.568,8,4
+app3_00071,cand_01,R3,Unity Developer (WebGL) - Casual Games,InGameJob,screening,1,2024-02-18,gamedev,0.563,2,6
+app3_00072,cand_03,R1,Unity Developer (WebGL) - Casual Games,InGameJob,ignore,0,2024-11-09,gamedev,0.314,11,5
+app3_00073,cand_01,R3,Unity Developer (WebGL) - Casual Games,InGameJob,reject,0,2024-08-23,gamedev,0.622,8,4
+app3_00074,cand_05,R2,Unity Developer (WebGL) - Casual Games,InGameJob,reject,0,2024-01-07,gamedev,0.476,1,6
+app3_00075,cand_03,R2,Unity Developer (WebGL) - Casual Games,InGameJob,ignore,0,2024-02-28,gamedev,0.534,2,2
+app3_00076,cand_06,R1,Senior Unity Developer - Architecture / Tools,HH,reject,0,2024-06-02,gamedev,0.23,6,6
+app3_00077,cand_01,R1,Unity Developer (WebGL) - Casual Games,InGameJob,reject,0,2024-04-15,gamedev,0.354,4,0
+app3_00078,cand_01,R2,Unity Developer (WebGL) - Casual Games,InGameJob,interview,1,2024-03-16,gamedev,0.543,3,5
+app3_00079,cand_04,R3,Unity Developer (WebGL) - Casual Games,InGameJob,reject,0,2024-07-19,gamedev,0.634,7,4
+app3_00080,cand_02,R1,Unity Developer (Middle) - Mobile F2P,HH,reject,0,2024-02-07,gamedev,0.379,2,2
+app3_00081,cand_05,R3,Senior Unity Developer - Multiplayer (Photon),LinkedIn,ignore,0,2024-03-10,gamedev,0.424,3,6
+app3_00082,cand_01,R1,Senior Unity Developer - VR/AR,LinkedIn,reject,0,2024-09-14,gamedev,0.268,9,5
+app3_00083,cand_05,R3,Senior Unity Developer - VR/AR,LinkedIn,reject,0,2024-07-16,gamedev,0.49,7,1
+app3_00084,cand_05,R3,Senior Unity Developer - Multiplayer (Photon),LinkedIn,reject,0,2024-03-07,gamedev,0.454,3,3
+app3_00085,cand_01,R1,Senior Unity Developer - Architecture / Tools,HH,reject,0,2024-12-22,gamedev,0.443,12,6
+app3_00086,cand_01,R1,Unity Developer (Middle) - Mobile F2P,HH,reject,0,2024-11-02,gamedev,0.403,11,5
+app3_00087,cand_02,R3,Senior Unity Developer - Multiplayer (Photon),LinkedIn,ignore,0,2024-07-12,gamedev,0.666,7,4
+app3_00088,cand_01,R2,Unity Developer (Middle) - Mobile F2P,HH,ignore,0,2024-09-10,gamedev,0.565,9,1
+app3_00089,cand_03,R1,Senior Unity Developer - Architecture / Tools,HH,reject,0,2024-05-14,gamedev,0.505,5,1
+app3_00090,cand_06,R2,Senior Unity Developer - Multiplayer (Photon),LinkedIn,ignore,0,2024-01-26,gamedev,0.413,1,4
+app3_00091,cand_04,R3,Unity Developer (WebGL) - Casual Games,InGameJob,ignore,0,2024-06-26,gamedev,0.659,6,2
+app3_00092,cand_06,R1,Senior Unity Developer - Architecture / Tools,HH,ignore,0,2024-06-22,gamedev,0.128,6,5
+app3_00093,cand_01,R2,Unity Developer (Middle) - Mobile F2P,HH,reject,0,2024-09-27,gamedev,0.552,9,4
+app3_00094,cand_02,R3,Senior Unity Developer - VR/AR,LinkedIn,interview,1,2024-11-18,gamedev,0.688,11,0
+app3_00095,cand_01,R3,Unity Developer (Middle) - Mobile F2P,HH,ignore,0,2024-05-28,gamedev,0.631,5,1
+app3_00096,cand_01,R1,Unity Developer - Hypercasual / LiveOps,HH,reject,0,2024-08-31,gamedev,0.358,8,5
+app3_00097,cand_02,R2,Senior Unity Developer - Multiplayer (Photon),LinkedIn,ignore,0,2024-09-01,gamedev,0.481,9,6
+app3_00098,cand_03,R3,Unity Developer (WebGL) - Casual Games,InGameJob,ignore,0,2024-04-03,gamedev,0.558,4,2
+app3_00099,cand_03,R2,Unity Developer (WebGL) - Casual Games,InGameJob,ignore,0,2024-07-04,gamedev,0.524,7,3
+app3_00100,cand_06,R1,Unity Developer (Middle) - Mobile F2P,HH,screening,1,2024-09-03,gamedev,0.53,9,1
+app3_00101,cand_02,R2,Unity Developer - Hypercasual / LiveOps,HH,ignore,0,2024-05-05,gamedev,0.53,5,6
+app3_00102,cand_04,R3,Senior Unity Developer - VR/AR,LinkedIn,reject,0,2024-10-29,gamedev,0.768,10,1
+app3_00103,cand_06,R1,Unity Developer (Middle) - Mobile F2P,HH,reject,0,2024-12-16,gamedev,0.542,12,0
+app3_00104,cand_03,R1,Senior Unity Developer - Multiplayer (Photon),LinkedIn,ignore,0,2024-05-04,gamedev,0.286,5,5
+app3_00105,cand_05,R3,Unity Developer (WebGL) - Casual Games,InGameJob,ignore,0,2024-04-07,gamedev,0.589,4,6
+app3_00106,cand_03,R2,Unity Developer (Middle) - Mobile F2P,HH,reject,0,2024-05-10,gamedev,0.497,5,4
+app3_00107,cand_01,R1,Senior Unity Developer - VR/AR,LinkedIn,reject,0,2024-04-06,gamedev,0.339,4,5
+app3_00108,cand_04,R1,Senior Unity Developer - Multiplayer (Photon),LinkedIn,reject,0,2024-11-17,gamedev,0.365,11,6
+app3_00109,cand_03,R2,Unity Developer (Middle) - Mobile F2P,HH,ignore,0,2024-04-18,gamedev,0.472,4,3
+app3_00110,cand_01,R3,Unity Developer (WebGL) - Casual Games,InGameJob,reject,0,2024-01-07,gamedev,0.531,1,6
+app3_00111,cand_04,R2,Senior Unity Developer - Architecture / Tools,HH,reject,0,2024-10-24,gamedev,0.536,10,3
+app3_00112,cand_05,R2,Unity Developer (WebGL) - Casual Games,InGameJob,ignore,0,2024-06-13,gamedev,0.527,6,3
+app3_00113,cand_05,R3,Senior Unity Developer - Architecture / Tools,HH,reject,0,2024-05-06,gamedev,0.455,5,0
+app3_00114,cand_01,R3,Senior Unity Developer - VR/AR,LinkedIn,ignore,0,2024-09-11,gamedev,0.543,9,2
+app3_00115,cand_05,R1,Unity Developer (Middle) - Mobile F2P,HH,ignore,0,2024-04-07,gamedev,0.636,4,6
+app3_00116,cand_03,R1,Senior Unity Developer - VR/AR,LinkedIn,reject,0,2024-07-26,gamedev,0.333,7,4
+app3_00117,cand_06,R3,Senior Unity Developer - Multiplayer (Photon),LinkedIn,ignore,0,2024-01-21,gamedev,0.508,1,6
+app3_00118,cand_06,R3,Senior Unity Developer - Multiplayer (Photon),LinkedIn,ignore,0,2024-08-16,gamedev,0.539,8,4
+app3_00119,cand_04,R3,Senior Unity Developer - Multiplayer (Photon),LinkedIn,ignore,0,2024-10-28,gamedev,0.692,10,0
+app3_00120,cand_02,R1,Unity Developer - Hypercasual / LiveOps,HH,reject,0,2024-10-06,gamedev,0.314,10,6
+app3_00121,cand_03,R2,Unity Developer (WebGL) - Casual Games,InGameJob,ignore,0,2024-03-30,gamedev,0.435,3,5
+app3_00122,cand_06,R2,Senior Unity Developer - Multiplayer (Photon),LinkedIn,ignore,0,2024-12-25,gamedev,0.379,12,2
+app3_00123,cand_03,R1,Unity Developer - Hypercasual / LiveOps,HH,reject,0,2024-09-18,gamedev,0.448,9,2
+app3_00124,cand_01,R3,Senior Unity Developer - Multiplayer (Photon),LinkedIn,ignore,0,2024-07-05,gamedev,0.691,7,4
+app3_00125,cand_02,R1,Senior Unity Developer - Architecture / Tools,HH,reject,0,2024-03-29,gamedev,0.427,3,4
+app3_00126,cand_01,R1,Unity Developer - Hypercasual / LiveOps,HH,reject,0,2024-02-06,gamedev,0.307,2,1
+app3_00127,cand_05,R3,Senior Unity Developer - Multiplayer (Photon),LinkedIn,reject,0,2024-07-31,gamedev,0.464,7,2
+app3_00128,cand_02,R1,Unity Developer (WebGL) - Casual Games,InGameJob,screening,1,2024-03-17,gamedev,0.686,3,6
+app3_00129,cand_02,R1,Unity Developer - Hypercasual / LiveOps,HH,screening,1,2024-02-14,gamedev,0.241,2,2
+app3_00130,cand_05,R3,Senior Unity Developer - Multiplayer (Photon),LinkedIn,ignore,0,2024-04-15,gamedev,0.524,4,0
+app3_00131,cand_06,R1,Unity Developer - Hypercasual / LiveOps,HH,reject,0,2024-07-23,gamedev,0.552,7,1
+app3_00132,cand_04,R1,Senior Unity Developer - Multiplayer (Photon),LinkedIn,ignore,0,2024-04-25,gamedev,0.416,4,3
+app3_00133,cand_05,R1,Unity Developer (WebGL) - Casual Games,InGameJob,reject,0,2024-02-20,gamedev,0.391,2,1
+app3_00134,cand_04,R3,Senior Unity Developer - Architecture / Tools,HH,ignore,0,2024-09-02,gamedev,0.629,9,0
+app3_00135,cand_05,R1,Unity Developer (WebGL) - Casual Games,InGameJob,reject,0,2024-10-16,gamedev,0.356,10,2
+app3_00136,cand_05,R3,Senior Unity Developer - Architecture / Tools,HH,ignore,0,2024-05-25,gamedev,0.457,5,5
+app3_00137,cand_05,R1,Unity Developer - Hypercasual / LiveOps,HH,reject,0,2024-11-22,gamedev,0.32,11,4
+app3_00138,cand_01,R1,Senior Unity Developer - VR/AR,LinkedIn,ignore,0,2024-04-27,gamedev,0.392,4,5
+app3_00139,cand_02,R1,Senior Unity Developer - Multiplayer (Photon),LinkedIn,ignore,0,2024-08-27,gamedev,0.395,8,1
+app3_00140,cand_01,R2,Unity Developer (Middle) - Mobile F2P,HH,interview,1,2024-02-29,gamedev,0.526,2,3
+app3_00141,cand_03,R1,Senior Unity Developer - VR/AR,LinkedIn,ignore,0,2024-12-09,gamedev,0.235,12,0
+app3_00142,cand_04,R3,Unity Developer (Middle) - Mobile F2P,HH,ignore,0,2024-12-13,gamedev,0.581,12,4
+app3_00143,cand_05,R3,Senior Unity Developer - Multiplayer (Photon),LinkedIn,ignore,0,2024-05-13,gamedev,0.444,5,0
+app3_00144,cand_06,R3,Unity Developer (Middle) - Mobile F2P,HH,ignore,0,2024-11-11,gamedev,0.705,11,0
+app3_00145,cand_05,R3,Unity Developer (Middle) - Mobile F2P,HH,ignore,0,2024-03-12,gamedev,0.74,3,1
+app3_00146,cand_05,R1,Senior Unity Developer - VR/AR,LinkedIn,ignore,0,2024-05-27,gamedev,0.308,5,0
+app3_00147,cand_03,R1,Unity Developer (WebGL) - Casual Games,InGameJob,ignore,0,2024-11-08,gamedev,0.228,11,4
+app3_00148,cand_05,R3,Unity Developer (Middle) - Mobile F2P,HH,reject,0,2024-02-05,gamedev,0.764,2,0
+app3_00149,cand_06,R3,Senior Unity Developer - Multiplayer (Photon),LinkedIn,reject,0,2024-02-05,gamedev,0.42,2,0
+app3_00150,cand_05,R1,Unity Developer (WebGL) - Casual Games,InGameJob,reject,0,2024-07-10,gamedev,0.392,7,2
+app3_00151,cand_06,R1,Unity Developer (Middle) - Mobile F2P,HH,ignore,0,2024-02-11,gamedev,0.521,2,6
+app3_00152,cand_05,R2,Unity Developer (Middle) - Mobile F2P,HH,reject,0,2024-12-22,gamedev,0.664,12,6
+app3_00153,cand_02,R2,Unity Developer (WebGL) - Casual Games,InGameJob,ignore,0,2024-01-01,gamedev,0.764,1,0
+app3_00154,cand_01,R2,Senior Unity Developer - Multiplayer (Photon),LinkedIn,reject,0,2024-04-30,gamedev,0.662,4,1
+app3_00155,cand_05,R2,Unity Developer (Middle) - Mobile F2P,HH,ignore,0,2024-11-12,gamedev,0.78,11,1
+app3_00156,cand_06,R2,Unity Developer - Hypercasual / LiveOps,HH,reject,0,2024-11-03,gamedev,0.642,11,6
+app3_00157,cand_04,R1,Unity Developer (Middle) - Mobile F2P,HH,ignore,0,2024-07-31,gamedev,0.43,7,2
+app3_00158,cand_05,R2,Senior Unity Developer - Multiplayer (Photon),LinkedIn,reject,0,2024-10-16,gamedev,0.414,10,2
+app3_00159,cand_04,R2,Unity Developer (Middle) - Mobile F2P,HH,ignore,0,2024-07-19,gamedev,0.561,7,4
+app3_00160,cand_05,R3,Senior Unity Developer - Multiplayer (Photon),LinkedIn,ignore,0,2024-01-22,gamedev,0.365,1,0
+app3_00161,cand_05,R2,Senior Unity Developer - VR/AR,LinkedIn,ignore,0,2024-06-03,gamedev,0.416,6,0
+app3_00162,cand_02,R1,Unity Developer - Hypercasual / LiveOps,HH,ignore,0,2024-09-23,gamedev,0.313,9,0
+app3_00163,cand_02,R1,Unity Developer - Hypercasual / LiveOps,HH,ignore,0,2024-01-04,gamedev,0.373,1,3
+app3_00164,cand_03,R1,Senior Unity Developer - VR/AR,LinkedIn,screening,1,2024-06-10,gamedev,0.352,6,0
+app3_00165,cand_01,R3,Unity Developer (Middle) - Mobile F2P,HH,ignore,0,2024-07-09,gamedev,0.606,7,1
+app3_00166,cand_05,R2,Senior Unity Developer - Architecture / Tools,HH,ignore,0,2024-07-27,gamedev,0.403,7,5
+app3_00167,cand_04,R1,Unity Developer (Middle) - Mobile F2P,HH,ignore,0,2024-11-22,gamedev,0.415,11,4
+app3_00168,cand_06,R1,Unity Developer - Hypercasual / LiveOps,HH,reject,0,2024-04-02,gamedev,0.567,4,1
+app3_00169,cand_04,R2,Senior Unity Developer - VR/AR,LinkedIn,screening,1,2024-11-23,gamedev,0.716,11,5
+app3_00170,cand_05,R1,Senior Unity Developer - Architecture / Tools,HH,ignore,0,2024-07-11,gamedev,0.182,7,3
+app3_00171,cand_04,R1,Unity Developer (WebGL) - Casual Games,InGameJob,reject,0,2024-05-26,gamedev,0.437,5,6
+app3_00172,cand_03,R2,Unity Developer (Middle) - Mobile F2P,HH,screening,1,2024-10-07,gamedev,0.488,10,0
+app3_00173,cand_05,R1,Senior Unity Developer - VR/AR,LinkedIn,ignore,0,2024-09-23,gamedev,0.256,9,0
+app3_00174,cand_01,R2,Senior Unity Developer - VR/AR,LinkedIn,ignore,0,2024-06-27,gamedev,0.461,6,3
+app3_00175,cand_06,R2,Unity Developer (WebGL) - Casual Games,InGameJob,ignore,0,2024-10-09,gamedev,0.493,10,2
+app3_00176,cand_02,R1,Unity Developer - Hypercasual / LiveOps,HH,reject,0,2024-05-08,gamedev,0.334,5,2
+app3_00177,cand_06,R2,Senior Unity Developer - Multiplayer (Photon),LinkedIn,ignore,0,2024-05-23,gamedev,0.454,5,3
+app3_00178,cand_05,R1,Senior Unity Developer - Architecture / Tools,HH,reject,0,2024-07-31,gamedev,0.245,7,2
+app3_00179,cand_03,R3,Unity Developer (Middle) - Mobile F2P,HH,reject,0,2024-07-23,gamedev,0.548,7,1
+app3_00180,cand_03,R3,Unity Developer (Middle) - Mobile F2P,HH,reject,0,2024-10-10,gamedev,0.608,10,3
+app3_00181,cand_05,R1,Unity Developer (Middle) - Mobile F2P,HH,reject,0,2024-05-05,gamedev,0.673,5,6
+app3_00182,cand_01,R1,Senior Unity Developer - Multiplayer (Photon),LinkedIn,ignore,0,2024-03-19,gamedev,0.518,3,1
+app3_00183,cand_01,R3,Unity Developer - Hypercasual / LiveOps,HH,interview,1,2024-10-19,gamedev,0.705,10,5
+app3_00184,cand_02,R3,Senior Unity Developer - Architecture / Tools,HH,screening,1,2024-05-23,gamedev,0.63,5,3
+app3_00185,cand_05,R1,Unity Developer (WebGL) - Casual Games,InGameJob,screening,1,2024-07-14,gamedev,0.381,7,6
+app3_00186,cand_03,R2,Unity Developer (WebGL) - Casual Games,InGameJob,ignore,0,2024-08-30,gamedev,0.6,8,4
+app3_00187,cand_03,R2,Senior Unity Developer - VR/AR,LinkedIn,reject,0,2024-08-30,gamedev,0.462,8,4
+app3_00188,cand_06,R2,Unity Developer (WebGL) - Casual Games,InGameJob,reject,0,2024-06-10,gamedev,0.5,6,0
+app3_00189,cand_01,R1,Senior Unity Developer - Architecture / Tools,HH,screening,1,2024-01-13,gamedev,0.407,1,5
+app3_00190,cand_02,R3,Senior Unity Developer - Architecture / Tools,HH,ignore,0,2024-08-26,gamedev,0.6,8,0
+app3_00191,cand_03,R3,Senior Unity Developer - Architecture / Tools,HH,reject,0,2024-04-13,gamedev,0.769,4,5
+app3_00192,cand_02,R2,Unity Developer (Middle) - Mobile F2P,HH,screening,1,2024-07-25,gamedev,0.611,7,3
+app3_00193,cand_02,R3,Unity Developer - Hypercasual / LiveOps,HH,ignore,0,2024-12-04,gamedev,0.551,12,2
+app3_00194,cand_04,R1,Unity Developer - Hypercasual / LiveOps,HH,ignore,0,2024-10-20,gamedev,0.449,10,6
+app3_00195,cand_05,R1,Senior Unity Developer - Multiplayer (Photon),LinkedIn,ignore,0,2024-01-05,gamedev,0.208,1,4
+app3_00196,cand_06,R3,Senior Unity Developer - VR/AR,LinkedIn,reject,0,2024-05-08,gamedev,0.469,5,2
+app3_00197,cand_02,R1,Unity Developer (Middle) - Mobile F2P,HH,reject,0,2024-09-20,gamedev,0.383,9,4
+app3_00198,cand_03,R1,Senior Unity Developer - VR/AR,LinkedIn,ignore,0,2024-09-01,gamedev,0.338,9,6
+app3_00199,cand_02,R2,Unity Developer - Hypercasual / LiveOps,HH,reject,0,2024-06-04,gamedev,0.516,6,1
+app3_00200,cand_03,R2,Unity Developer (Middle) - Mobile F2P,HH,reject,0,2024-04-12,gamedev,0.508,4,4
+app3_00201,cand_01,R1,Unity Developer - Hypercasual / LiveOps,HH,screening,1,2024-02-02,gamedev,0.385,2,4
+app3_00202,cand_01,R1,Senior Unity Developer - Multiplayer (Photon),LinkedIn,ignore,0,2024-06-20,gamedev,0.484,6,3
+app3_00203,cand_01,R3,Unity Developer (WebGL) - Casual Games,InGameJob,reject,0,2024-04-27,gamedev,0.628,4,5
+app3_00204,cand_05,R2,Senior Unity Developer - Multiplayer (Photon),LinkedIn,ignore,0,2024-08-21,gamedev,0.425,8,2
+app3_00205,cand_04,R3,Unity Developer - Hypercasual / LiveOps,HH,screening,1,2024-10-25,gamedev,0.683,10,4
+app3_00206,cand_05,R1,Unity Developer (Middle) - Mobile F2P,HH,reject,0,2024-06-22,gamedev,0.677,6,5
+app3_00207,cand_01,R2,Senior Unity Developer - VR/AR,LinkedIn,ignore,0,2024-09-16,gamedev,0.464,9,0
+app3_00208,cand_04,R1,Senior Unity Developer - VR/AR,LinkedIn,ignore,0,2024-02-15,gamedev,0.526,2,3
+app3_00209,cand_04,R1,Senior Unity Developer - VR/AR,LinkedIn,reject,0,2024-03-17,gamedev,0.655,3,6
+app3_00210,cand_05,R1,Senior Unity Developer - Architecture / Tools,HH,ignore,0,2024-09-05,gamedev,0.127,9,3
+app3_00211,cand_03,R3,Senior Unity Developer - Architecture / Tools,HH,ignore,0,2024-04-13,gamedev,0.712,4,5
+app3_00212,cand_05,R1,Unity Developer (WebGL) - Casual Games,InGameJob,reject,0,2024-05-20,gamedev,0.471,5,0
+app3_00213,cand_04,R3,Unity Developer (Middle) - Mobile F2P,HH,test,1,2024-05-12,gamedev,0.569,5,6
+app3_00214,cand_06,R2,Senior Unity Developer - Multiplayer (Photon),LinkedIn,ignore,0,2024-09-01,gamedev,0.447,9,6
+app3_00215,cand_05,R1,Unity Developer (Middle) - Mobile F2P,HH,reject,0,2024-12-02,gamedev,0.647,12,0
+app3_00216,cand_05,R1,Senior Unity Developer - Multiplayer (Photon),LinkedIn,ignore,0,2024-11-12,gamedev,0.268,11,1
+app3_00217,cand_01,R2,Senior Unity Developer - VR/AR,LinkedIn,screening,1,2024-11-16,gamedev,0.447,11,5
+app3_00218,cand_04,R3,Unity Developer (Middle) - Mobile F2P,HH,reject,0,2024-06-04,gamedev,0.59,6,1
+app3_00219,cand_06,R1,Unity Developer (Middle) - Mobile F2P,HH,reject,0,2024-01-12,gamedev,0.545,1,4
+app3_00220,cand_04,R1,Unity Developer - Hypercasual / LiveOps,HH,reject,0,2024-05-02,gamedev,0.317,5,3
+app3_00221,cand_01,R2,Unity Developer (WebGL) - Casual Games,InGameJob,reject,0,2024-06-03,gamedev,0.477,6,0
+app3_00222,cand_06,R3,Unity Developer (Middle) - Mobile F2P,HH,interview,1,2024-12-23,gamedev,0.737,12,0
+app3_00223,cand_02,R2,Senior Unity Developer - Architecture / Tools,HH,reject,0,2024-12-18,gamedev,0.588,12,2
+app3_00224,cand_02,R1,Unity Developer - Hypercasual / LiveOps,HH,ignore,0,2024-02-25,gamedev,0.358,2,6
+app3_00225,cand_04,R3,Unity Developer - Hypercasual / LiveOps,HH,ignore,0,2024-07-04,gamedev,0.655,7,3
+app3_00226,cand_06,R3,Unity Developer (Middle) - Mobile F2P,HH,test,1,2024-07-13,gamedev,0.683,7,5
+app3_00227,cand_02,R1,Unity Developer - Hypercasual / LiveOps,HH,reject,0,2024-02-03,gamedev,0.427,2,5
+app3_00228,cand_03,R3,Senior Unity Developer - Architecture / Tools,HH,reject,0,2024-03-17,gamedev,0.677,3,6
+app3_00229,cand_01,R2,Unity Developer - Hypercasual / LiveOps,HH,reject,0,2024-02-07,gamedev,0.511,2,2
+app3_00230,cand_02,R1,Senior Unity Developer - VR/AR,LinkedIn,reject,0,2024-08-04,gamedev,0.32,8,6
+app3_00231,cand_04,R2,Unity Developer (Middle) - Mobile F2P,HH,ignore,0,2024-11-14,gamedev,0.53,11,3
+app3_00232,cand_05,R1,Senior Unity Developer - Multiplayer (Photon),LinkedIn,ignore,0,2024-12-21,gamedev,0.183,12,5
+app3_00233,cand_01,R3,Senior Unity Developer - Multiplayer (Photon),LinkedIn,ignore,0,2024-05-21,gamedev,0.63,5,1
+app3_00234,cand_04,R3,Senior Unity Developer - Architecture / Tools,HH,screening,1,2024-02-15,gamedev,0.672,2,3
+app3_00235,cand_06,R1,Unity Developer - Hypercasual / LiveOps,HH,ignore,0,2024-04-29,gamedev,0.566,4,0
+app3_00236,cand_02,R3,Senior Unity Developer - Multiplayer (Photon),LinkedIn,reject,0,2024-11-04,gamedev,0.745,11,0
+app3_00237,cand_02,R1,Senior Unity Developer - VR/AR,LinkedIn,ignore,0,2024-07-07,gamedev,0.364,7,6
+app3_00238,cand_02,R3,Unity Developer - Hypercasual / LiveOps,HH,reject,0,2024-07-16,gamedev,0.518,7,1
+app3_00239,cand_04,R1,Senior Unity Developer - Architecture / Tools,HH,ignore,0,2024-01-15,gamedev,0.39,1,0
+app3_00240,cand_02,R1,Unity Developer (WebGL) - Casual Games,InGameJob,ignore,0,2024-09-10,gamedev,0.628,9,1
+app3_00241,cand_03,R3,Senior Unity Developer - Architecture / Tools,HH,ignore,0,2024-07-21,gamedev,0.684,7,6
+app3_00242,cand_04,R1,Unity Developer (Middle) - Mobile F2P,HH,ignore,0,2024-05-16,gamedev,0.395,5,3
+app3_00243,cand_03,R2,Senior Unity Developer - Architecture / Tools,HH,reject,0,2024-09-10,gamedev,0.647,9,1
+app3_00244,cand_03,R1,Unity Developer (WebGL) - Casual Games,InGameJob,reject,0,2024-07-11,gamedev,0.277,7,3
+app3_00245,cand_06,R3,Unity Developer (Middle) - Mobile F2P,HH,ignore,0,2024-09-17,gamedev,0.746,9,1
+app3_00246,cand_06,R3,Unity Developer - Hypercasual / LiveOps,HH,interview,1,2024-01-08,gamedev,0.821,1,0
+app3_00247,cand_02,R3,Unity Developer (Middle) - Mobile F2P,HH,ignore,0,2024-02-28,gamedev,0.588,2,2
+app3_00248,cand_05,R2,Senior Unity Developer - VR/AR,LinkedIn,reject,0,2024-08-09,gamedev,0.483,8,4
+app3_00249,cand_05,R2,Unity Developer (Middle) - Mobile F2P,HH,ignore,0,2024-02-21,gamedev,0.751,2,2
+app3_00250,cand_05,R2,Senior Unity Developer - Multiplayer (Photon),LinkedIn,ignore,0,2024-12-01,gamedev,0.319,12,6
+app3_00251,cand_03,R3,Senior Unity Developer - Multiplayer (Photon),LinkedIn,reject,0,2024-08-05,gamedev,0.625,8,0
+app3_00252,cand_05,R2,Senior Unity Developer - Architecture / Tools,HH,reject,0,2024-12-04,gamedev,0.354,12,2
+app3_00253,cand_02,R2,Unity Developer (WebGL) - Casual Games,InGameJob,ignore,0,2024-10-08,gamedev,0.69,10,1
+app3_00254,cand_06,R1,Unity Developer - Hypercasual / LiveOps,HH,ignore,0,2024-10-02,gamedev,0.61,10,2
+app3_00255,cand_06,R1,Senior Unity Developer - Architecture / Tools,HH,reject,0,2024-04-04,gamedev,0.299,4,3
+app3_00256,cand_06,R1,Senior Unity Developer - VR/AR,LinkedIn,reject,0,2024-11-27,gamedev,0.199,11,2
+app3_00257,cand_03,R3,Unity Developer - Hypercasual / LiveOps,HH,screening,1,2024-06-28,gamedev,0.685,6,4
+app3_00258,cand_02,R3,Unity Developer - Hypercasual / LiveOps,HH,ignore,0,2024-08-30,gamedev,0.669,8,4
+app3_00259,cand_04,R1,Unity Developer (WebGL) - Casual Games,InGameJob,ignore,0,2024-06-12,gamedev,0.391,6,2
+app3_00260,cand_04,R2,Senior Unity Developer - Multiplayer (Photon),LinkedIn,ignore,0,2024-04-28,gamedev,0.574,4,6
+app3_00261,cand_06,R2,Senior Unity Developer - Multiplayer (Photon),LinkedIn,reject,0,2024-03-13,gamedev,0.509,3,2
+app3_00262,cand_05,R3,Unity Developer - Hypercasual / LiveOps,HH,reject,0,2024-10-17,gamedev,0.604,10,3
+app3_00263,cand_03,R2,Unity Developer - Hypercasual / LiveOps,HH,reject,0,2024-05-14,gamedev,0.556,5,1
+app3_00264,cand_06,R1,Senior Unity Developer - Multiplayer (Photon),LinkedIn,reject,0,2024-11-24,gamedev,0.241,11,6
+app3_00265,cand_04,R1,Unity Developer - Hypercasual / LiveOps,HH,reject,0,2024-03-09,gamedev,0.303,3,5
+app3_00266,cand_02,R2,Unity Developer - Hypercasual / LiveOps,HH,reject,0,2024-03-13,gamedev,0.451,3,2
+app3_00267,cand_06,R1,Senior Unity Developer - Architecture / Tools,HH,reject,0,2024-04-17,gamedev,0.129,4,2
+app3_00268,cand_02,R2,Unity Developer - Hypercasual / LiveOps,HH,screening,1,2024-10-29,gamedev,0.365,10,1
+app3_00269,cand_02,R2,Senior Unity Developer - VR/AR,LinkedIn,ignore,0,2024-01-25,gamedev,0.529,1,3
+app3_00270,cand_03,R3,Senior Unity Developer - VR/AR,LinkedIn,ignore,0,2024-06-14,gamedev,0.577,6,4
+app3_00271,cand_03,R1,Unity Developer - Hypercasual / LiveOps,HH,reject,0,2024-01-03,gamedev,0.502,1,2
+app3_00272,cand_02,R1,Senior Unity Developer - Multiplayer (Photon),LinkedIn,ignore,0,2024-02-09,gamedev,0.406,2,4
+app3_00273,cand_06,R2,Senior Unity Developer - VR/AR,LinkedIn,ignore,0,2024-10-28,gamedev,0.4,10,0
+app3_00274,cand_04,R1,Senior Unity Developer - VR/AR,LinkedIn,screening,1,2024-11-04,gamedev,0.707,11,0
+app3_00275,cand_04,R1,Senior Unity Developer - Multiplayer (Photon),LinkedIn,ignore,0,2024-03-30,gamedev,0.387,3,5
+app3_00276,cand_02,R3,Senior Unity Developer - Architecture / Tools,HH,interview,1,2024-12-21,gamedev,0.691,12,5
+app3_00277,cand_01,R1,Unity Developer - Hypercasual / LiveOps,HH,ignore,0,2024-03-22,gamedev,0.408,3,4
+app3_00278,cand_02,R2,Unity Developer (Middle) - Mobile F2P,HH,ignore,0,2024-08-28,gamedev,0.514,8,2
+app3_00279,cand_01,R2,Unity Developer (Middle) - Mobile F2P,HH,reject,0,2024-08-08,gamedev,0.637,8,3
+app3_00280,cand_06,R3,Unity Developer (WebGL) - Casual Games,InGameJob,ignore,0,2024-02-24,gamedev,0.632,2,5
+app3_00281,cand_03,R2,Unity Developer (WebGL) - Casual Games,InGameJob,reject,0,2024-04-22,gamedev,0.488,4,0
+app3_00282,cand_05,R1,Unity Developer - Hypercasual / LiveOps,HH,ignore,0,2024-10-28,gamedev,0.482,10,0
+app3_00283,cand_01,R3,Unity Developer (WebGL) - Casual Games,InGameJob,reject,0,2024-10-26,gamedev,0.561,10,5
+app3_00284,cand_01,R3,Senior Unity Developer - Multiplayer (Photon),LinkedIn,ignore,0,2024-06-24,gamedev,0.739,6,0
+app3_00285,cand_03,R1,Senior Unity Developer - Architecture / Tools,HH,ignore,0,2024-01-20,gamedev,0.553,1,5
+app3_00286,cand_02,R2,Unity Developer (WebGL) - Casual Games,InGameJob,reject,0,2024-11-09,gamedev,0.731,11,5
+app3_00287,cand_02,R3,Unity Developer (Middle) - Mobile F2P,HH,reject,0,2024-09-15,gamedev,0.609,9,6
+app3_00288,cand_01,R1,Unity Developer - Hypercasual / LiveOps,HH,reject,0,2024-06-09,gamedev,0.319,6,6
+app3_00289,cand_03,R2,Unity Developer - Hypercasual / LiveOps,HH,ignore,0,2024-12-29,gamedev,0.578,12,6
+app3_00290,cand_05,R1,Unity Developer (WebGL) - Casual Games,InGameJob,reject,0,2024-06-01,gamedev,0.457,6,5
+app3_00291,cand_04,R1,Unity Developer (WebGL) - Casual Games,InGameJob,reject,0,2024-01-31,gamedev,0.5,1,2
+app3_00292,cand_04,R3,Unity Developer - Hypercasual / LiveOps,HH,reject,0,2024-07-03,gamedev,0.6,7,2
+app3_00293,cand_06,R3,Senior Unity Developer - VR/AR,LinkedIn,reject,0,2024-10-03,gamedev,0.447,10,3
+app3_00294,cand_02,R2,Unity Developer (WebGL) - Casual Games,InGameJob,reject,0,2024-03-30,gamedev,0.691,3,5
+app3_00295,cand_02,R2,Senior Unity Developer - VR/AR,LinkedIn,reject,0,2024-12-26,gamedev,0.464,12,3
+app3_00296,cand_01,R1,Senior Unity Developer - Architecture / Tools,HH,reject,0,2024-11-30,gamedev,0.448,11,5
+app3_00297,cand_04,R1,Unity Developer (WebGL) - Casual Games,InGameJob,ignore,0,2024-06-01,gamedev,0.442,6,5
+app3_00298,cand_05,R1,Senior Unity Developer - VR/AR,LinkedIn,ignore,0,2024-08-22,gamedev,0.236,8,3
+app3_00299,cand_02,R2,Senior Unity Developer - VR/AR,LinkedIn,reject,0,2024-12-15,gamedev,0.505,12,6
+app3_00300,cand_01,R2,Senior Unity Developer - Architecture / Tools,HH,reject,0,2024-09-18,gamedev,0.474,9,2
+app3_00301,cand_05,R2,Unity Developer (WebGL) - Casual Games,InGameJob,ignore,0,2024-09-15,gamedev,0.557,9,6
+app3_00302,cand_01,R3,Senior Unity Developer - Architecture / Tools,HH,reject,0,2024-02-13,gamedev,0.765,2,1
+app3_00303,cand_01,R1,Unity Developer (WebGL) - Casual Games,InGameJob,reject,0,2024-11-17,gamedev,0.33,11,6
+app3_00304,cand_05,R3,Unity Developer (WebGL) - Casual Games,InGameJob,ignore,0,2024-06-07,gamedev,0.577,6,4
+app3_00305,cand_03,R2,Senior Unity Developer - Architecture / Tools,HH,ignore,0,2024-03-10,gamedev,0.646,3,6
+app3_00306,cand_06,R2,Unity Developer - Hypercasual / LiveOps,HH,reject,0,2024-10-20,gamedev,0.667,10,6
+app3_00307,cand_02,R2,Senior Unity Developer - Architecture / Tools,HH,ignore,0,2024-06-03,gamedev,0.619,6,0
+app3_00308,cand_05,R1,Unity Developer - Hypercasual / LiveOps,HH,ignore,0,2024-02-08,gamedev,0.444,2,3
+app3_00309,cand_02,R2,Senior Unity Developer - Multiplayer (Photon),LinkedIn,screening,1,2024-01-21,gamedev,0.598,1,6
+app3_00310,cand_06,R3,Unity Developer (Middle) - Mobile F2P,HH,reject,0,2024-01-21,gamedev,0.616,1,6
+app3_00311,cand_06,R2,Senior Unity Developer - Architecture / Tools,HH,reject,0,2024-01-15,gamedev,0.359,1,0
+app3_00312,cand_01,R2,Unity Developer (WebGL) - Casual Games,InGameJob,interview,1,2024-07-09,gamedev,0.552,7,1
+app3_00313,cand_06,R1,Unity Developer - Hypercasual / LiveOps,HH,ignore,0,2024-05-22,gamedev,0.545,5,2
+app3_00314,cand_06,R2,Senior Unity Developer - Multiplayer (Photon),LinkedIn,ignore,0,2024-02-20,gamedev,0.449,2,1
+app3_00315,cand_05,R3,Senior Unity Developer - Multiplayer (Photon),LinkedIn,reject,0,2024-03-06,gamedev,0.513,3,2
+app3_00316,cand_02,R1,Unity Developer (Middle) - Mobile F2P,HH,reject,0,2024-07-04,gamedev,0.389,7,3
+app3_00317,cand_04,R3,Senior Unity Developer - Multiplayer (Photon),LinkedIn,reject,0,2024-07-02,gamedev,0.603,7,1
+app3_00318,cand_03,R3,Unity Developer (Middle) - Mobile F2P,HH,reject,0,2024-03-30,gamedev,0.604,3,5
+app3_00319,cand_02,R1,Unity Developer - Hypercasual / LiveOps,HH,reject,0,2024-05-29,gamedev,0.341,5,2
+app3_00320,cand_04,R2,Senior Unity Developer - Architecture / Tools,HH,reject,0,2024-08-23,gamedev,0.53,8,4
+app3_00321,cand_01,R2,Unity Developer (WebGL) - Casual Games,InGameJob,ignore,0,2024-02-22,gamedev,0.43,2,3
+app3_00322,cand_01,R2,Senior Unity Developer - VR/AR,LinkedIn,ignore,0,2024-08-13,gamedev,0.506,8,1
+app3_00323,cand_04,R2,Unity Developer (WebGL) - Casual Games,InGameJob,ignore,0,2024-02-14,gamedev,0.66,2,2
+app3_00324,cand_02,R2,Senior Unity Developer - Multiplayer (Photon),LinkedIn,ignore,0,2024-04-06,gamedev,0.624,4,5
+app3_00325,cand_03,R2,Senior Unity Developer - Multiplayer (Photon),LinkedIn,ignore,0,2024-04-07,gamedev,0.536,4,6
+app3_00326,cand_06,R2,Unity Developer (WebGL) - Casual Games,InGameJob,ignore,0,2024-07-07,gamedev,0.588,7,6
+app3_00327,cand_01,R2,Senior Unity Developer - Multiplayer (Photon),LinkedIn,ignore,0,2024-11-07,gamedev,0.739,11,3
+app3_00328,cand_03,R2,Senior Unity Developer - Multiplayer (Photon),LinkedIn,ignore,0,2024-12-08,gamedev,0.576,12,6
+app3_00329,cand_04,R1,Unity Developer - Hypercasual / LiveOps,HH,ignore,0,2024-01-04,gamedev,0.4,1,3
+app3_00330,cand_06,R1,Unity Developer (Middle) - Mobile F2P,HH,reject,0,2024-09-26,gamedev,0.553,9,3
+app3_00331,cand_05,R2,Unity Developer (Middle) - Mobile F2P,HH,reject,0,2024-09-14,gamedev,0.751,9,5
+app3_00332,cand_03,R1,Senior Unity Developer - VR/AR,LinkedIn,ignore,0,2024-04-01,gamedev,0.306,4,0
+app3_00333,cand_06,R1,Unity Developer (WebGL) - Casual Games,InGameJob,ignore,0,2024-05-13,gamedev,0.427,5,0
+app3_00334,cand_01,R3,Senior Unity Developer - VR/AR,LinkedIn,reject,0,2024-02-24,gamedev,0.512,2,5
+app3_00335,cand_02,R2,Unity Developer (Middle) - Mobile F2P,HH,reject,0,2024-03-30,gamedev,0.567,3,5
+app3_00336,cand_02,R2,Unity Developer - Hypercasual / LiveOps,HH,reject,0,2024-10-15,gamedev,0.525,10,1
+app3_00337,cand_01,R2,Unity Developer (WebGL) - Casual Games,InGameJob,reject,0,2024-12-26,gamedev,0.53,12,3
+app3_00338,cand_01,R1,Unity Developer (Middle) - Mobile F2P,HH,screening,1,2024-11-13,gamedev,0.396,11,2
+app3_00339,cand_02,R3,Senior Unity Developer - Multiplayer (Photon),LinkedIn,ignore,0,2024-09-20,gamedev,0.587,9,4
+app3_00340,cand_05,R2,Unity Developer (Middle) - Mobile F2P,HH,reject,0,2024-10-22,gamedev,0.842,10,1
+app3_00341,cand_04,R2,Senior Unity Developer - VR/AR,LinkedIn,reject,0,2024-10-20,gamedev,0.711,10,6
+app3_00342,cand_01,R1,Unity Developer - Hypercasual / LiveOps,HH,reject,0,2024-01-17,gamedev,0.287,1,2
+app3_00343,cand_05,R2,Senior Unity Developer - VR/AR,LinkedIn,ignore,0,2024-05-02,gamedev,0.403,5,3
+app3_00344,cand_04,R1,Unity Developer (Middle) - Mobile F2P,HH,screening,1,2024-01-01,gamedev,0.438,1,0
+app3_00345,cand_01,R1,Unity Developer (Middle) - Mobile F2P,HH,reject,0,2024-07-13,gamedev,0.391,7,5
+app3_00346,cand_03,R1,Unity Developer (WebGL) - Casual Games,InGameJob,ignore,0,2024-12-10,gamedev,0.402,12,1
+app3_00347,cand_06,R2,Unity Developer (WebGL) - Casual Games,InGameJob,reject,0,2024-05-05,gamedev,0.585,5,6
+app3_00348,cand_05,R1,Senior Unity Developer - Architecture / Tools,HH,reject,0,2024-01-10,gamedev,0.216,1,2
+app3_00349,cand_02,R1,Unity Developer (WebGL) - Casual Games,InGameJob,reject,0,2024-01-16,gamedev,0.574,1,1
+app3_00350,cand_04,R2,Senior Unity Developer - VR/AR,LinkedIn,screening,1,2024-12-20,gamedev,0.693,12,4
+app3_00351,cand_06,R2,Unity Developer (Middle) - Mobile F2P,HH,reject,0,2024-05-30,gamedev,0.699,5,3
+app3_00352,cand_01,R3,Unity Developer - Hypercasual / LiveOps,HH,reject,0,2024-04-14,gamedev,0.609,4,6
+app3_00353,cand_01,R3,Senior Unity Developer - VR/AR,LinkedIn,reject,0,2024-12-05,gamedev,0.499,12,3
+app3_00354,cand_04,R2,Unity Developer - Hypercasual / LiveOps,HH,ignore,0,2024-08-19,gamedev,0.514,8,0
+app3_00355,cand_04,R1,Unity Developer (WebGL) - Casual Games,InGameJob,ignore,0,2024-10-01,gamedev,0.387,10,1
+app3_00356,cand_05,R1,Senior Unity Developer - Multiplayer (Photon),LinkedIn,ignore,0,2024-05-03,gamedev,0.169,5,4
+app3_00357,cand_04,R3,Senior Unity Developer - Architecture / Tools,HH,reject,0,2024-10-12,gamedev,0.567,10,5
+app3_00358,cand_01,R1,Unity Developer (Middle) - Mobile F2P,HH,reject,0,2024-04-08,gamedev,0.355,4,0
+app3_00359,cand_03,R2,Unity Developer - Hypercasual / LiveOps,HH,reject,0,2024-04-04,gamedev,0.663,4,3
+app3_00360,cand_04,R1,Senior Unity Developer - VR/AR,LinkedIn,screening,1,2024-06-30,gamedev,0.619,6,6
+app3_00361,cand_04,R1,Senior Unity Developer - VR/AR,LinkedIn,ignore,0,2024-08-13,gamedev,0.613,8,1
+app3_00362,cand_02,R3,Unity Developer (Middle) - Mobile F2P,HH,interview,1,2024-12-19,gamedev,0.606,12,3
+app3_00363,cand_01,R1,Unity Developer (WebGL) - Casual Games,InGameJob,ignore,0,2024-05-21,gamedev,0.366,5,1
+app3_00364,cand_01,R2,Senior Unity Developer - Multiplayer (Photon),LinkedIn,reject,0,2024-01-05,gamedev,0.602,1,4
+app3_00365,cand_03,R2,Senior Unity Developer - VR/AR,LinkedIn,reject,0,2024-06-28,gamedev,0.483,6,4
+app3_00366,cand_01,R2,Senior Unity Developer - Multiplayer (Photon),LinkedIn,reject,0,2024-09-23,gamedev,0.651,9,0
+app3_00367,cand_06,R1,Senior Unity Developer - Multiplayer (Photon),LinkedIn,ignore,0,2024-01-09,gamedev,0.118,1,1
+app3_00368,cand_05,R2,Senior Unity Developer - Multiplayer (Photon),LinkedIn,reject,0,2024-09-06,gamedev,0.431,9,4
+app3_00369,cand_05,R1,Unity Developer (Middle) - Mobile F2P,HH,ignore,0,2024-05-03,gamedev,0.548,5,4
+app3_00370,cand_06,R2,Senior Unity Developer - Multiplayer (Photon),LinkedIn,ignore,0,2024-03-14,gamedev,0.452,3,3
+app3_00371,cand_02,R2,Unity Developer (WebGL) - Casual Games,InGameJob,reject,0,2024-10-13,gamedev,0.709,10,6
+app3_00372,cand_03,R2,Unity Developer (WebGL) - Casual Games,InGameJob,ignore,0,2024-07-06,gamedev,0.517,7,5
+app3_00373,cand_05,R1,Unity Developer (WebGL) - Casual Games,InGameJob,reject,0,2024-09-09,gamedev,0.393,9,0
+app3_00374,cand_01,R1,Unity Developer - Hypercasual / LiveOps,HH,reject,0,2024-11-09,gamedev,0.42,11,5
+app3_00375,cand_04,R2,Unity Developer (Middle) - Mobile F2P,HH,ignore,0,2024-01-18,gamedev,0.635,1,3
+app3_00376,cand_04,R2,Senior Unity Developer - VR/AR,LinkedIn,screening,1,2024-03-30,gamedev,0.706,3,5
+app3_00377,cand_04,R2,Senior Unity Developer - Architecture / Tools,HH,ignore,0,2024-03-03,gamedev,0.502,3,6
+app3_00378,cand_03,R2,Senior Unity Developer - Multiplayer (Photon),LinkedIn,ignore,0,2024-10-16,gamedev,0.553,10,2
+app3_00379,cand_05,R2,Unity Developer - Hypercasual / LiveOps,HH,reject,0,2024-01-28,gamedev,0.49,1,6
+app3_00380,cand_01,R2,Unity Developer - Hypercasual / LiveOps,HH,reject,0,2024-07-23,gamedev,0.546,7,1
+app3_00381,cand_02,R1,Senior Unity Developer - Multiplayer (Photon),LinkedIn,ignore,0,2024-10-05,gamedev,0.39,10,5
+app3_00382,cand_05,R2,Unity Developer (Middle) - Mobile F2P,HH,ignore,0,2024-06-01,gamedev,0.709,6,5
+app3_00383,cand_06,R2,Senior Unity Developer - VR/AR,LinkedIn,reject,0,2024-06-19,gamedev,0.429,6,2
+app3_00384,cand_01,R3,Senior Unity Developer - Architecture / Tools,HH,reject,0,2024-06-15,gamedev,0.703,6,5
+app3_00385,cand_01,R1,Senior Unity Developer - VR/AR,LinkedIn,ignore,0,2024-04-13,gamedev,0.303,4,5
+app3_00386,cand_05,R2,Unity Developer - Hypercasual / LiveOps,HH,ignore,0,2024-01-25,gamedev,0.393,1,3
+app3_00387,cand_04,R2,Unity Developer (Middle) - Mobile F2P,HH,ignore,0,2024-10-24,gamedev,0.576,10,3
+app3_00388,cand_02,R2,Senior Unity Developer - Architecture / Tools,HH,interview,1,2024-08-29,gamedev,0.604,8,3
+app3_00389,cand_04,R3,Unity Developer (WebGL) - Casual Games,InGameJob,ignore,0,2024-04-24,gamedev,0.589,4,2
+app3_00390,cand_02,R3,Senior Unity Developer - Multiplayer (Photon),LinkedIn,screening,1,2024-01-23,gamedev,0.702,1,1
+app3_00391,cand_03,R2,Unity Developer - Hypercasual / LiveOps,HH,ignore,0,2024-09-14,gamedev,0.599,9,5
+app3_00392,cand_01,R3,Senior Unity Developer - Architecture / Tools,HH,ignore,0,2024-01-31,gamedev,0.644,1,2
+app3_00393,cand_06,R1,Unity Developer (Middle) - Mobile F2P,HH,ignore,0,2024-07-09,gamedev,0.477,7,1
+app3_00394,cand_03,R2,Senior Unity Developer - Multiplayer (Photon),LinkedIn,ignore,0,2024-09-02,gamedev,0.719,9,0
+app3_00395,cand_03,R2,Senior Unity Developer - Multiplayer (Photon),LinkedIn,reject,0,2024-12-17,gamedev,0.512,12,1
+app3_00396,cand_05,R2,Unity Developer - Hypercasual / LiveOps,HH,ignore,0,2024-05-12,gamedev,0.482,5,6
+app3_00397,cand_01,R3,Senior Unity Developer - Architecture / Tools,HH,reject,0,2024-09-06,gamedev,0.676,9,4
+app3_00398,cand_03,R1,Unity Developer - Hypercasual / LiveOps,HH,ignore,0,2024-12-03,gamedev,0.378,12,1
+app3_00399,cand_04,R1,Senior Unity Developer - Multiplayer (Photon),LinkedIn,ignore,0,2024-07-11,gamedev,0.374,7,3
+app3_00400,cand_04,R2,Unity Developer (WebGL) - Casual Games,InGameJob,reject,0,2024-05-06,gamedev,0.543,5,0
+app3_00401,cand_04,R2,Senior Unity Developer - Architecture / Tools,HH,reject,0,2024-04-28,gamedev,0.656,4,6
+app3_00402,cand_04,R3,Unity Developer - Hypercasual / LiveOps,HH,ignore,0,2024-06-28,gamedev,0.599,6,4
+app3_00403,cand_02,R3,Unity Developer (Middle) - Mobile F2P,HH,test,1,2024-06-19,gamedev,0.658,6,2
+app3_00404,cand_05,R2,Senior Unity Developer - VR/AR,LinkedIn,reject,0,2024-07-11,gamedev,0.384,7,3
+app3_00405,cand_04,R2,Unity Developer (Middle) - Mobile F2P,HH,reject,0,2024-07-25,gamedev,0.532,7,3
+app3_00406,cand_02,R2,Unity Developer (WebGL) - Casual Games,InGameJob,reject,0,2024-01-27,gamedev,0.728,1,5
+app3_00407,cand_06,R3,Unity Developer - Hypercasual / LiveOps,HH,reject,0,2024-02-12,gamedev,0.677,2,0
+app3_00408,cand_01,R1,Senior Unity Developer - Multiplayer (Photon),LinkedIn,ignore,0,2024-11-05,gamedev,0.588,11,1
+app3_00409,cand_06,R1,Unity Developer (WebGL) - Casual Games,InGameJob,reject,0,2024-07-07,gamedev,0.334,7,6
+app3_00410,cand_04,R1,Senior Unity Developer - Multiplayer (Photon),LinkedIn,reject,0,2024-03-12,gamedev,0.444,3,1
+app3_00411,cand_03,R2,Unity Developer (WebGL) - Casual Games,InGameJob,reject,0,2024-09-01,gamedev,0.454,9,6
+app3_00412,cand_05,R3,Unity Developer (WebGL) - Casual Games,InGameJob,screening,1,2024-03-05,gamedev,0.586,3,1
+app3_00413,cand_03,R1,Senior Unity Developer - VR/AR,LinkedIn,ignore,0,2024-03-09,gamedev,0.313,3,5
+app3_00414,cand_04,R3,Senior Unity Developer - Multiplayer (Photon),LinkedIn,ignore,0,2024-09-28,gamedev,0.636,9,5
+app3_00415,cand_05,R1,Senior Unity Developer - Multiplayer (Photon),LinkedIn,ignore,0,2024-05-20,gamedev,0.174,5,0
+app3_00416,cand_04,R1,Senior Unity Developer - VR/AR,LinkedIn,reject,0,2024-09-27,gamedev,0.602,9,4
+app3_00417,cand_04,R2,Unity Developer (Middle) - Mobile F2P,HH,reject,0,2024-04-07,gamedev,0.588,4,6
+app3_00418,cand_03,R1,Unity Developer (Middle) - Mobile F2P,HH,reject,0,2024-01-28,gamedev,0.433,1,6
+app3_00419,cand_06,R2,Senior Unity Developer - VR/AR,LinkedIn,ignore,0,2024-05-30,gamedev,0.367,5,3
+app3_00420,cand_05,R2,Unity Developer (WebGL) - Casual Games,InGameJob,ignore,0,2024-06-08,gamedev,0.537,6,5
+app3_00421,cand_01,R2,Senior Unity Developer - Multiplayer (Photon),LinkedIn,ignore,0,2024-02-17,gamedev,0.707,2,5
+app3_00422,cand_05,R2,Unity Developer - Hypercasual / LiveOps,HH,reject,0,2024-07-05,gamedev,0.571,7,4
+app3_00423,cand_03,R3,Unity Developer - Hypercasual / LiveOps,HH,ignore,0,2024-02-03,gamedev,0.704,2,5
+app3_00424,cand_05,R2,Senior Unity Developer - Multiplayer (Photon),LinkedIn,reject,0,2024-07-13,gamedev,0.372,7,5
+app3_00425,cand_04,R1,Senior Unity Developer - Multiplayer (Photon),LinkedIn,ignore,0,2024-06-24,gamedev,0.395,6,0
+app3_00426,cand_02,R1,Senior Unity Developer - VR/AR,LinkedIn,ignore,0,2024-09-25,gamedev,0.399,9,2
+app3_00427,cand_01,R2,Unity Developer (Middle) - Mobile F2P,HH,ignore,0,2024-03-23,gamedev,0.693,3,5
+app3_00428,cand_06,R3,Senior Unity Developer - Architecture / Tools,HH,reject,0,2024-11-05,gamedev,0.428,11,1
+app3_00429,cand_01,R3,Senior Unity Developer - Architecture / Tools,HH,screening,1,2024-07-22,gamedev,0.639,7,0
+app3_00430,cand_02,R2,Senior Unity Developer - Multiplayer (Photon),LinkedIn,reject,0,2024-05-13,gamedev,0.55,5,0
+app3_00431,cand_05,R2,Senior Unity Developer - Architecture / Tools,HH,reject,0,2024-08-24,gamedev,0.319,8,5
+app3_00432,cand_05,R2,Senior Unity Developer - Multiplayer (Photon),LinkedIn,ignore,0,2024-09-19,gamedev,0.399,9,3
+app3_00433,cand_06,R1,Unity Developer (WebGL) - Casual Games,InGameJob,ignore,0,2024-08-11,gamedev,0.36,8,6
+app3_00434,cand_05,R2,Unity Developer (WebGL) - Casual Games,InGameJob,ignore,0,2024-06-13,gamedev,0.419,6,3
+app3_00435,cand_06,R1,Senior Unity Developer - Multiplayer (Photon),LinkedIn,reject,0,2024-08-10,gamedev,0.156,8,5
+app3_00436,cand_04,R1,Senior Unity Developer - VR/AR,LinkedIn,interview,1,2024-01-15,gamedev,0.572,1,0
+app3_00437,cand_04,R3,Unity Developer (WebGL) - Casual Games,InGameJob,reject,0,2024-09-29,gamedev,0.635,9,6
+app3_00438,cand_04,R3,Senior Unity Developer - Architecture / Tools,HH,ignore,0,2024-01-12,gamedev,0.728,1,4
+app3_00439,cand_01,R2,Senior Unity Developer - Multiplayer (Photon),LinkedIn,reject,0,2024-05-16,gamedev,0.695,5,3
+app3_00440,cand_05,R3,Senior Unity Developer - Multiplayer (Photon),LinkedIn,ignore,0,2024-01-06,gamedev,0.436,1,5
+app3_00441,cand_02,R3,Unity Developer (Middle) - Mobile F2P,HH,test,1,2024-06-11,gamedev,0.622,6,1
+app3_00442,cand_04,R2,Senior Unity Developer - Architecture / Tools,HH,reject,0,2024-01-04,gamedev,0.521,1,3
+app3_00443,cand_01,R3,Unity Developer - Hypercasual / LiveOps,HH,ignore,0,2024-04-20,gamedev,0.61,4,5
+app3_00444,cand_06,R3,Senior Unity Developer - Multiplayer (Photon),LinkedIn,ignore,0,2024-12-25,gamedev,0.477,12,2
+app3_00445,cand_02,R3,Unity Developer (WebGL) - Casual Games,InGameJob,ignore,0,2024-01-15,gamedev,0.73,1,0
+app3_00446,cand_06,R1,Senior Unity Developer - VR/AR,LinkedIn,ignore,0,2024-11-05,gamedev,0.282,11,1
+app3_00447,cand_02,R2,Senior Unity Developer - Architecture / Tools,HH,reject,0,2024-08-12,gamedev,0.698,8,0
+app3_00448,cand_04,R1,Unity Developer - Hypercasual / LiveOps,HH,ignore,0,2024-03-04,gamedev,0.341,3,0
+app3_00449,cand_01,R1,Senior Unity Developer - Multiplayer (Photon),LinkedIn,ignore,0,2024-03-25,gamedev,0.479,3,0
+app3_00450,cand_06,R1,Senior Unity Developer - Architecture / Tools,HH,ignore,0,2024-03-04,gamedev,0.08,3,0
+app3_00451,cand_05,R2,Unity Developer (WebGL) - Casual Games,InGameJob,reject,0,2024-02-23,gamedev,0.534,2,4
+app3_00452,cand_03,R3,Unity Developer (WebGL) - Casual Games,InGameJob,reject,0,2024-01-12,gamedev,0.599,1,4
+app3_00453,cand_03,R3,Unity Developer - Hypercasual / LiveOps,HH,reject,0,2024-05-24,gamedev,0.659,5,4
+app3_00454,cand_06,R3,Senior Unity Developer - Multiplayer (Photon),LinkedIn,ignore,0,2024-04-18,gamedev,0.409,4,3
+app3_00455,cand_04,R1,Unity Developer (Middle) - Mobile F2P,HH,reject,0,2024-06-11,gamedev,0.37,6,1
+app3_00456,cand_04,R1,Unity Developer (WebGL) - Casual Games,InGameJob,ignore,0,2024-01-27,gamedev,0.515,1,5
+app3_00457,cand_05,R1,Unity Developer - Hypercasual / LiveOps,HH,ignore,0,2024-01-14,gamedev,0.334,1,6
+app3_00458,cand_03,R1,Senior Unity Developer - Architecture / Tools,HH,reject,0,2024-05-19,gamedev,0.441,5,6
+app3_00459,cand_01,R1,Senior Unity Developer - Architecture / Tools,HH,reject,0,2024-06-01,gamedev,0.363,6,5
+app3_00460,cand_02,R2,Unity Developer (WebGL) - Casual Games,InGameJob,ignore,0,2024-06-27,gamedev,0.647,6,3
+app3_00461,cand_01,R1,Senior Unity Developer - Architecture / Tools,HH,reject,0,2024-09-10,gamedev,0.479,9,1
+app3_00462,cand_05,R2,Unity Developer (WebGL) - Casual Games,InGameJob,ignore,0,2024-06-23,gamedev,0.492,6,6
+app3_00463,cand_03,R3,Unity Developer (WebGL) - Casual Games,InGameJob,ignore,0,2024-02-14,gamedev,0.55,2,2
+app3_00464,cand_02,R3,Unity Developer (Middle) - Mobile F2P,HH,ignore,0,2024-08-16,gamedev,0.631,8,4
+app3_00465,cand_03,R3,Unity Developer (Middle) - Mobile F2P,HH,reject,0,2024-09-17,gamedev,0.609,9,1
+app3_00466,cand_06,R2,Unity Developer - Hypercasual / LiveOps,HH,ignore,0,2024-09-12,gamedev,0.716,9,3
+app3_00467,cand_06,R3,Senior Unity Developer - Multiplayer (Photon),LinkedIn,ignore,0,2024-05-27,gamedev,0.451,5,0
+app3_00468,cand_04,R1,Unity Developer (Middle) - Mobile F2P,HH,reject,0,2024-08-23,gamedev,0.352,8,4
+app3_00469,cand_06,R3,Unity Developer - Hypercasual / LiveOps,HH,reject,0,2024-01-29,gamedev,0.711,1,0
+app3_00470,cand_04,R1,Unity Developer - Hypercasual / LiveOps,HH,ignore,0,2024-06-20,gamedev,0.459,6,3
+app3_00471,cand_04,R1,Senior Unity Developer - VR/AR,LinkedIn,reject,0,2024-04-21,gamedev,0.64,4,6
+app3_00472,cand_01,R1,Unity Developer (Middle) - Mobile F2P,HH,reject,0,2024-01-07,gamedev,0.338,1,6
+app3_00473,cand_06,R2,Senior Unity Developer - VR/AR,LinkedIn,ignore,0,2024-04-25,gamedev,0.361,4,3
+app3_00474,cand_05,R2,Senior Unity Developer - VR/AR,LinkedIn,ignore,0,2024-12-19,gamedev,0.344,12,3
+app3_00475,cand_05,R2,Unity Developer (Middle) - Mobile F2P,HH,reject,0,2024-10-17,gamedev,0.717,10,3
+app3_00476,cand_06,R1,Senior Unity Developer - Architecture / Tools,HH,ignore,0,2024-06-20,gamedev,0.162,6,3
+app3_00477,cand_02,R2,Senior Unity Developer - Multiplayer (Photon),LinkedIn,ignore,0,2024-09-19,gamedev,0.475,9,3
+app3_00478,cand_02,R2,Unity Developer - Hypercasual / LiveOps,HH,reject,0,2024-12-09,gamedev,0.515,12,0
+app3_00479,cand_02,R2,Senior Unity Developer - VR/AR,LinkedIn,ignore,0,2024-02-29,gamedev,0.594,2,3
+app3_00480,cand_06,R2,Unity Developer (WebGL) - Casual Games,InGameJob,reject,0,2024-01-26,gamedev,0.575,1,4
+app3_00481,cand_02,R3,Unity Developer (WebGL) - Casual Games,InGameJob,reject,0,2024-08-24,gamedev,0.776,8,5
+app3_00482,cand_06,R3,Senior Unity Developer - Multiplayer (Photon),LinkedIn,ignore,0,2024-05-21,gamedev,0.402,5,1
+app3_00483,cand_05,R2,Unity Developer (Middle) - Mobile F2P,HH,ignore,0,2024-03-12,gamedev,0.633,3,1
+app3_00484,cand_04,R2,Unity Developer (WebGL) - Casual Games,InGameJob,reject,0,2024-07-17,gamedev,0.61,7,2
+app3_00485,cand_02,R1,Unity Developer - Hypercasual / LiveOps,HH,ignore,0,2024-06-04,gamedev,0.425,6,1
+app3_00486,cand_05,R1,Senior Unity Developer - Multiplayer (Photon),LinkedIn,reject,0,2024-11-30,gamedev,0.05,11,5
+app3_00487,cand_02,R2,Unity Developer (WebGL) - Casual Games,InGameJob,reject,0,2024-04-24,gamedev,0.678,4,2
+app3_00488,cand_03,R2,Senior Unity Developer - Multiplayer (Photon),LinkedIn,ignore,0,2024-10-03,gamedev,0.549,10,3
+app3_00489,cand_06,R3,Senior Unity Developer - VR/AR,LinkedIn,ignore,0,2024-01-05,gamedev,0.435,1,4
+app3_00490,cand_05,R3,Unity Developer - Hypercasual / LiveOps,HH,interview,1,2024-01-20,gamedev,0.665,1,5
+app3_00491,cand_04,R3,Unity Developer (WebGL) - Casual Games,InGameJob,reject,0,2024-09-09,gamedev,0.592,9,0
+app3_00492,cand_03,R3,Unity Developer (Middle) - Mobile F2P,HH,ignore,0,2024-11-23,gamedev,0.641,11,5
+app3_00493,cand_05,R2,Senior Unity Developer - VR/AR,LinkedIn,ignore,0,2024-12-19,gamedev,0.437,12,3
+app3_00494,cand_04,R2,Unity Developer (WebGL) - Casual Games,InGameJob,reject,0,2024-06-02,gamedev,0.544,6,6
+app3_00495,cand_05,R2,Senior Unity Developer - VR/AR,LinkedIn,ignore,0,2024-05-02,gamedev,0.395,5,3
+app3_00496,cand_05,R2,Senior Unity Developer - Architecture / Tools,HH,ignore,0,2024-11-23,gamedev,0.464,11,5
+app3_00497,cand_02,R2,Unity Developer (WebGL) - Casual Games,InGameJob,interview,1,2024-01-05,gamedev,0.72,1,4
+app3_00498,cand_03,R3,Unity Developer - Hypercasual / LiveOps,HH,reject,0,2024-04-17,gamedev,0.743,4,2
+app3_00499,cand_01,R3,Senior Unity Developer - Multiplayer (Photon),LinkedIn,ignore,0,2024-10-10,gamedev,0.669,10,3
+app3_00500,cand_03,R2,Unity Developer (Middle) - Mobile F2P,HH,ignore,0,2024-07-02,gamedev,0.509,7,1
+app3_00501,cand_01,R3,Senior Unity Developer - Multiplayer (Photon),LinkedIn,screening,1,2024-11-05,gamedev,0.652,11,1
+app3_00502,cand_03,R3,Senior Unity Developer - Architecture / Tools,HH,reject,0,2024-01-14,gamedev,0.772,1,6
+app3_00503,cand_03,R1,Unity Developer (WebGL) - Casual Games,InGameJob,ignore,0,2024-09-10,gamedev,0.29,9,1
+app3_00504,cand_01,R3,Senior Unity Developer - Multiplayer (Photon),LinkedIn,ignore,0,2024-12-28,gamedev,0.664,12,5
+app3_00505,cand_05,R3,Senior Unity Developer - Architecture / Tools,HH,screening,1,2024-05-11,gamedev,0.45,5,5
+app3_00506,cand_01,R3,Senior Unity Developer - VR/AR,LinkedIn,ignore,0,2024-11-02,gamedev,0.504,11,5
+app3_00507,cand_06,R3,Senior Unity Developer - Architecture / Tools,HH,ignore,0,2024-04-24,gamedev,0.47,4,2
+app3_00508,cand_06,R1,Senior Unity Developer - Multiplayer (Photon),LinkedIn,reject,0,2024-11-25,gamedev,0.114,11,0
+app3_00509,cand_06,R3,Senior Unity Developer - Multiplayer (Photon),LinkedIn,ignore,0,2024-03-06,gamedev,0.579,3,2
+app3_00510,cand_03,R1,Senior Unity Developer - Architecture / Tools,HH,screening,1,2024-02-24,gamedev,0.458,2,5
+app3_00511,cand_05,R2,Unity Developer - Hypercasual / LiveOps,HH,ignore,0,2024-05-06,gamedev,0.538,5,0
+app3_00512,cand_04,R2,Senior Unity Developer - Multiplayer (Photon),LinkedIn,ignore,0,2024-07-14,gamedev,0.581,7,6
+app3_00513,cand_01,R3,Unity Developer - Hypercasual / LiveOps,HH,ignore,0,2024-10-28,gamedev,0.548,10,0
+app3_00514,cand_02,R2,Unity Developer (WebGL) - Casual Games,InGameJob,reject,0,2024-04-05,gamedev,0.711,4,4
+app3_00515,cand_06,R2,Senior Unity Developer - Architecture / Tools,HH,reject,0,2024-01-29,gamedev,0.39,1,0
+app3_00516,cand_02,R3,Unity Developer (Middle) - Mobile F2P,HH,test,1,2024-08-15,gamedev,0.626,8,3
+app3_00517,cand_05,R2,Senior Unity Developer - Architecture / Tools,HH,reject,0,2024-07-07,gamedev,0.28,7,6
+app3_00518,cand_03,R1,Unity Developer - Hypercasual / LiveOps,HH,reject,0,2024-08-26,gamedev,0.537,8,0
+app3_00519,cand_01,R1,Unity Developer (WebGL) - Casual Games,InGameJob,screening,1,2024-07-25,gamedev,0.331,7,3
+app3_00520,cand_06,R2,Senior Unity Developer - VR/AR,LinkedIn,reject,0,2024-12-31,gamedev,0.35,12,1
+app3_00521,cand_04,R1,Unity Developer - Hypercasual / LiveOps,HH,reject,0,2024-03-15,gamedev,0.387,3,4
+app3_00522,cand_02,R3,Senior Unity Developer - VR/AR,LinkedIn,reject,0,2024-07-10,gamedev,0.597,7,2
+app3_00523,cand_04,R3,Senior Unity Developer - VR/AR,LinkedIn,reject,0,2024-11-12,gamedev,0.706,11,1
+app3_00524,cand_06,R2,Senior Unity Developer - Multiplayer (Photon),LinkedIn,reject,0,2024-12-04,gamedev,0.421,12,2
+app3_00525,cand_03,R1,Unity Developer (Middle) - Mobile F2P,HH,reject,0,2024-04-08,gamedev,0.309,4,0
+app3_00526,cand_02,R1,Senior Unity Developer - Architecture / Tools,HH,reject,0,2024-09-21,gamedev,0.482,9,5
+app3_00527,cand_03,R2,Senior Unity Developer - VR/AR,LinkedIn,ignore,0,2024-09-24,gamedev,0.561,9,1
+app3_00528,cand_01,R3,Unity Developer (Middle) - Mobile F2P,HH,ignore,0,2024-08-29,gamedev,0.569,8,3
+app3_00529,cand_06,R3,Unity Developer (Middle) - Mobile F2P,HH,reject,0,2024-03-10,gamedev,0.713,3,6
+app3_00530,cand_06,R1,Senior Unity Developer - Architecture / Tools,HH,reject,0,2024-08-05,gamedev,0.258,8,0
+app3_00531,cand_03,R3,Unity Developer - Hypercasual / LiveOps,HH,reject,0,2024-09-16,gamedev,0.567,9,0
+app3_00532,cand_05,R2,Senior Unity Developer - Architecture / Tools,HH,ignore,0,2024-06-07,gamedev,0.369,6,4
+app3_00533,cand_01,R1,Senior Unity Developer - Multiplayer (Photon),LinkedIn,reject,0,2024-08-16,gamedev,0.488,8,4
+app3_00534,cand_01,R3,Unity Developer (WebGL) - Casual Games,InGameJob,ignore,0,2024-11-04,gamedev,0.593,11,0
+app3_00535,cand_04,R3,Senior Unity Developer - VR/AR,LinkedIn,test,1,2024-03-25,gamedev,0.723,3,0
+app3_00536,cand_04,R3,Unity Developer (Middle) - Mobile F2P,HH,ignore,0,2024-05-11,gamedev,0.612,5,5
+app3_00537,cand_02,R2,Senior Unity Developer - VR/AR,LinkedIn,ignore,0,2024-03-14,gamedev,0.63,3,3
+app3_00538,cand_06,R1,Senior Unity Developer - Architecture / Tools,HH,reject,0,2024-06-21,gamedev,0.188,6,4
+app3_00539,cand_05,R3,Unity Developer - Hypercasual / LiveOps,HH,reject,0,2024-08-05,gamedev,0.585,8,0
+app3_00540,cand_06,R1,Unity Developer (Middle) - Mobile F2P,HH,reject,0,2024-07-13,gamedev,0.523,7,5
+app3_00541,cand_02,R1,Unity Developer - Hypercasual / LiveOps,HH,reject,0,2024-10-27,gamedev,0.298,10,6
+app3_00542,cand_01,R3,Unity Developer (WebGL) - Casual Games,InGameJob,reject,0,2024-07-04,gamedev,0.558,7,3
+app3_00543,cand_05,R1,Unity Developer (Middle) - Mobile F2P,HH,test,1,2024-03-11,gamedev,0.634,3,0
+app3_00544,cand_02,R3,Unity Developer (Middle) - Mobile F2P,HH,reject,0,2024-08-15,gamedev,0.585,8,3
+app3_00545,cand_02,R3,Unity Developer (Middle) - Mobile F2P,HH,ignore,0,2024-10-15,gamedev,0.538,10,1
+app3_00546,cand_02,R3,Unity Developer (Middle) - Mobile F2P,HH,ignore,0,2024-08-23,gamedev,0.564,8,4
+app3_00547,cand_05,R1,Unity Developer (WebGL) - Casual Games,InGameJob,ignore,0,2024-11-30,gamedev,0.528,11,5
+app3_00548,cand_02,R1,Unity Developer - Hypercasual / LiveOps,HH,reject,0,2024-06-05,gamedev,0.251,6,2
+app3_00549,cand_04,R1,Senior Unity Developer - Multiplayer (Photon),LinkedIn,reject,0,2024-03-29,gamedev,0.394,3,4
+app3_00550,cand_06,R2,Senior Unity Developer - VR/AR,LinkedIn,reject,0,2024-07-28,gamedev,0.428,7,6
+app3_00551,cand_04,R3,Unity Developer - Hypercasual / LiveOps,HH,reject,0,2024-06-13,gamedev,0.651,6,3
+app3_00552,cand_03,R2,Unity Developer (Middle) - Mobile F2P,HH,reject,0,2024-04-23,gamedev,0.478,4,1
+app3_00553,cand_05,R1,Senior Unity Developer - Multiplayer (Photon),LinkedIn,reject,0,2024-02-12,gamedev,0.153,2,0
+app3_00554,cand_06,R2,Unity Developer (WebGL) - Casual Games,InGameJob,ignore,0,2024-12-08,gamedev,0.548,12,6
+app3_00555,cand_03,R1,Senior Unity Developer - VR/AR,LinkedIn,reject,0,2024-04-21,gamedev,0.37,4,6
+app3_00556,cand_06,R1,Unity Developer (WebGL) - Casual Games,InGameJob,reject,0,2024-09-11,gamedev,0.398,9,2
+app3_00557,cand_02,R3,Unity Developer (WebGL) - Casual Games,InGameJob,screening,1,2024-06-06,gamedev,0.658,6,3
+app3_00558,cand_04,R1,Senior Unity Developer - Multiplayer (Photon),LinkedIn,ignore,0,2024-02-10,gamedev,0.394,2,5
+app3_00559,cand_01,R3,Senior Unity Developer - Multiplayer (Photon),LinkedIn,reject,0,2024-10-26,gamedev,0.72,10,5
+app3_00560,cand_03,R1,Senior Unity Developer - Multiplayer (Photon),LinkedIn,reject,0,2024-10-16,gamedev,0.305,10,2
+app3_00561,cand_01,R1,Senior Unity Developer - Architecture / Tools,HH,reject,0,2024-03-16,gamedev,0.412,3,5
+app3_00562,cand_05,R1,Unity Developer (Middle) - Mobile F2P,HH,ignore,0,2024-05-26,gamedev,0.766,5,6
+app3_00563,cand_02,R2,Unity Developer (WebGL) - Casual Games,InGameJob,reject,0,2024-10-20,gamedev,0.698,10,6
+app3_00564,cand_04,R1,Senior Unity Developer - Multiplayer (Photon),LinkedIn,ignore,0,2024-12-01,gamedev,0.358,12,6
+app3_00565,cand_06,R2,Unity Developer (WebGL) - Casual Games,InGameJob,ignore,0,2024-07-16,gamedev,0.476,7,1
+app3_00566,cand_06,R3,Unity Developer (WebGL) - Casual Games,InGameJob,reject,0,2024-10-08,gamedev,0.548,10,1
+app3_00567,cand_06,R2,Unity Developer (Middle) - Mobile F2P,HH,interview,1,2024-09-11,gamedev,0.651,9,2
+app3_00568,cand_02,R2,Senior Unity Developer - Multiplayer (Photon),LinkedIn,reject,0,2024-11-09,gamedev,0.505,11,5
+app3_00569,cand_06,R3,Unity Developer (WebGL) - Casual Games,InGameJob,ignore,0,2024-12-28,gamedev,0.547,12,5
+app3_00570,cand_02,R3,Senior Unity Developer - Multiplayer (Photon),LinkedIn,ignore,0,2024-04-19,gamedev,0.694,4,4
+app3_00571,cand_02,R3,Senior Unity Developer - Architecture / Tools,HH,ignore,0,2024-08-09,gamedev,0.707,8,4
+app3_00572,cand_05,R3,Unity Developer (WebGL) - Casual Games,InGameJob,reject,0,2024-04-14,gamedev,0.625,4,6
+app3_00573,cand_02,R2,Unity Developer (WebGL) - Casual Games,InGameJob,ignore,0,2024-06-03,gamedev,0.679,6,0
+app3_00574,cand_04,R3,Senior Unity Developer - VR/AR,LinkedIn,ignore,0,2024-09-23,gamedev,0.697,9,0
+app3_00575,cand_04,R2,Senior Unity Developer - VR/AR,LinkedIn,ignore,0,2024-02-09,gamedev,0.646,2,4
+app3_00576,cand_03,R1,Unity Developer - Hypercasual / LiveOps,HH,reject,0,2024-04-08,gamedev,0.5,4,0
+app3_00577,cand_01,R1,Senior Unity Developer - Multiplayer (Photon),LinkedIn,ignore,0,2024-02-03,gamedev,0.493,2,5
+app3_00578,cand_01,R1,Unity Developer - Hypercasual / LiveOps,HH,reject,0,2024-09-07,gamedev,0.415,9,5
+app3_00579,cand_06,R2,Senior Unity Developer - Multiplayer (Photon),LinkedIn,ignore,0,2024-07-12,gamedev,0.421,7,4
+app3_00580,cand_02,R3,Senior Unity Developer - VR/AR,LinkedIn,ignore,0,2024-12-10,gamedev,0.649,12,1
+app3_00581,cand_05,R2,Unity Developer - Hypercasual / LiveOps,HH,reject,0,2024-02-11,gamedev,0.481,2,6
+app3_00582,cand_06,R2,Senior Unity Developer - VR/AR,LinkedIn,ignore,0,2024-08-28,gamedev,0.388,8,2
+app3_00583,cand_01,R1,Unity Developer (Middle) - Mobile F2P,HH,reject,0,2024-12-25,gamedev,0.36,12,2
+app3_00584,cand_06,R2,Senior Unity Developer - VR/AR,LinkedIn,ignore,0,2024-08-08,gamedev,0.46,8,3
+app3_00585,cand_04,R2,Senior Unity Developer - VR/AR,LinkedIn,ignore,0,2024-11-29,gamedev,0.714,11,4
+app3_00586,cand_06,R2,Unity Developer (Middle) - Mobile F2P,HH,reject,0,2024-01-14,gamedev,0.629,1,6
+app3_00587,cand_03,R1,Unity Developer (WebGL) - Casual Games,InGameJob,reject,0,2024-01-04,gamedev,0.29,1,3
+app3_00588,cand_01,R3,Unity Developer - Hypercasual / LiveOps,HH,interview,1,2024-05-31,gamedev,0.605,5,4
+app3_00589,cand_01,R1,Unity Developer - Hypercasual / LiveOps,HH,reject,0,2024-12-13,gamedev,0.348,12,4
+app3_00590,cand_04,R3,Unity Developer - Hypercasual / LiveOps,HH,reject,0,2024-08-16,gamedev,0.579,8,4
+app3_00591,cand_01,R2,Senior Unity Developer - Architecture / Tools,HH,reject,0,2024-08-14,gamedev,0.561,8,2
+app3_00592,cand_03,R1,Senior Unity Developer - Multiplayer (Photon),LinkedIn,interview,1,2024-03-20,gamedev,0.361,3,2
+app3_00593,cand_02,R3,Unity Developer (Middle) - Mobile F2P,HH,ignore,0,2024-02-12,gamedev,0.589,2,0
+app3_00594,cand_01,R1,Unity Developer (Middle) - Mobile F2P,HH,reject,0,2024-11-07,gamedev,0.485,11,3
+app3_00595,cand_06,R1,Senior Unity Developer - Multiplayer (Photon),LinkedIn,ignore,0,2024-06-25,gamedev,0.212,6,1
+app3_00596,cand_02,R3,Senior Unity Developer - Multiplayer (Photon),LinkedIn,test,1,2024-09-01,gamedev,0.73,9,6
+app3_00597,cand_01,R2,Senior Unity Developer - VR/AR,LinkedIn,ignore,0,2024-03-04,gamedev,0.482,3,0
+app3_00598,cand_01,R2,Senior Unity Developer - Architecture / Tools,HH,ignore,0,2024-03-22,gamedev,0.494,3,4
+app3_00599,cand_03,R3,Unity Developer (Middle) - Mobile F2P,HH,reject,0,2024-11-16,gamedev,0.571,11,5
+app3_00600,cand_05,R1,Unity Developer (WebGL) - Casual Games,InGameJob,ignore,0,2024-05-04,gamedev,0.527,5,5
+app3_00601,cand_03,R1,Unity Developer (WebGL) - Casual Games,InGameJob,ignore,0,2024-12-10,gamedev,0.362,12,1
+app3_00602,cand_03,R1,Unity Developer - Hypercasual / LiveOps,HH,reject,0,2024-05-07,gamedev,0.495,5,1
+app3_00603,cand_06,R3,Senior Unity Developer - VR/AR,LinkedIn,reject,0,2024-05-08,gamedev,0.406,5,2
+app3_00604,cand_05,R1,Unity Developer (WebGL) - Casual Games,InGameJob,reject,0,2024-05-14,gamedev,0.382,5,1
+app3_00605,cand_02,R2,Unity Developer (Middle) - Mobile F2P,HH,ignore,0,2024-07-14,gamedev,0.521,7,6
+app3_00606,cand_04,R3,Unity Developer - Hypercasual / LiveOps,HH,interview,1,2024-02-27,gamedev,0.619,2,1
+app3_00607,cand_03,R2,Senior Unity Developer - VR/AR,LinkedIn,reject,0,2024-07-26,gamedev,0.422,7,4
+app3_00608,cand_05,R3,Senior Unity Developer - Multiplayer (Photon),LinkedIn,reject,0,2024-01-31,gamedev,0.38,1,2
+app3_00609,cand_02,R3,Unity Developer - Hypercasual / LiveOps,HH,reject,0,2024-05-25,gamedev,0.604,5,5
+app3_00610,cand_05,R2,Senior Unity Developer - VR/AR,LinkedIn,reject,0,2024-10-07,gamedev,0.414,10,0
+app3_00611,cand_06,R3,Unity Developer - Hypercasual / LiveOps,HH,reject,0,2024-06-04,gamedev,0.689,6,1
+app3_00612,cand_06,R3,Unity Developer (Middle) - Mobile F2P,HH,reject,0,2024-09-14,gamedev,0.611,9,5
+app3_00613,cand_03,R1,Senior Unity Developer - Architecture / Tools,HH,reject,0,2024-05-29,gamedev,0.457,5,2
+app3_00614,cand_03,R3,Unity Developer (Middle) - Mobile F2P,HH,interview,1,2024-06-22,gamedev,0.549,6,5
+app3_00615,cand_04,R2,Senior Unity Developer - VR/AR,LinkedIn,ignore,0,2024-04-10,gamedev,0.672,4,2
+app3_00616,cand_06,R1,Senior Unity Developer - VR/AR,LinkedIn,reject,0,2024-05-31,gamedev,0.192,5,4
+app3_00617,cand_02,R1,Unity Developer (Middle) - Mobile F2P,HH,ignore,0,2024-06-23,gamedev,0.378,6,6
+app3_00618,cand_04,R3,Senior Unity Developer - Multiplayer (Photon),LinkedIn,reject,0,2024-07-06,gamedev,0.662,7,5
+app3_00619,cand_06,R2,Senior Unity Developer - Architecture / Tools,HH,ignore,0,2024-05-14,gamedev,0.419,5,1
+app3_00620,cand_05,R3,Unity Developer (WebGL) - Casual Games,InGameJob,ignore,0,2024-05-31,gamedev,0.588,5,4
+app3_00621,cand_04,R2,Senior Unity Developer - Architecture / Tools,HH,interview,1,2024-04-01,gamedev,0.497,4,0
+app3_00622,cand_06,R1,Senior Unity Developer - Architecture / Tools,HH,ignore,0,2024-01-07,gamedev,0.208,1,6
+app3_00623,cand_05,R3,Senior Unity Developer - VR/AR,LinkedIn,reject,0,2024-12-16,gamedev,0.41,12,0
+app3_00624,cand_03,R2,Senior Unity Developer - Architecture / Tools,HH,reject,0,2024-03-18,gamedev,0.57,3,0
+app3_00625,cand_03,R3,Senior Unity Developer - Multiplayer (Photon),LinkedIn,ignore,0,2024-01-10,gamedev,0.654,1,2
+app3_00626,cand_04,R2,Senior Unity Developer - Architecture / Tools,HH,ignore,0,2024-03-08,gamedev,0.573,3,4
+app3_00627,cand_01,R2,Unity Developer (WebGL) - Casual Games,InGameJob,ignore,0,2024-06-01,gamedev,0.512,6,5
+app3_00628,cand_06,R1,Unity Developer (WebGL) - Casual Games,InGameJob,ignore,0,2024-01-03,gamedev,0.547,1,2
+app3_00629,cand_06,R1,Senior Unity Developer - VR/AR,LinkedIn,reject,0,2024-09-02,gamedev,0.185,9,0
+app3_00630,cand_03,R2,Unity Developer (Middle) - Mobile F2P,HH,interview,1,2024-09-05,gamedev,0.426,9,3
+app3_00631,cand_01,R2,Senior Unity Developer - VR/AR,LinkedIn,reject,0,2024-03-20,gamedev,0.486,3,2
+app3_00632,cand_05,R3,Unity Developer (WebGL) - Casual Games,InGameJob,ignore,0,2024-01-31,gamedev,0.582,1,2
+app3_00633,cand_05,R3,Unity Developer (WebGL) - Casual Games,InGameJob,ignore,0,2024-03-26,gamedev,0.551,3,1
+app3_00634,cand_06,R3,Unity Developer - Hypercasual / LiveOps,HH,reject,0,2024-09-21,gamedev,0.717,9,5
+app3_00635,cand_01,R3,Senior Unity Developer - Multiplayer (Photon),LinkedIn,ignore,0,2024-10-09,gamedev,0.602,10,2
+app3_00636,cand_02,R3,Unity Developer - Hypercasual / LiveOps,HH,reject,0,2024-09-30,gamedev,0.668,9,0
+app3_00637,cand_06,R2,Unity Developer (WebGL) - Casual Games,InGameJob,interview,1,2024-12-29,gamedev,0.483,12,6
+app3_00638,cand_02,R1,Unity Developer (WebGL) - Casual Games,InGameJob,reject,0,2024-11-17,gamedev,0.53,11,6
+app3_00639,cand_06,R3,Unity Developer (WebGL) - Casual Games,InGameJob,reject,0,2024-03-18,gamedev,0.55,3,0
+app3_00640,cand_06,R1,Unity Developer (WebGL) - Casual Games,InGameJob,reject,0,2024-09-21,gamedev,0.454,9,5
+app3_00641,cand_01,R3,Unity Developer (Middle) - Mobile F2P,HH,ignore,0,2024-12-28,gamedev,0.572,12,5
+app3_00642,cand_03,R1,Unity Developer (WebGL) - Casual Games,InGameJob,ignore,0,2024-08-03,gamedev,0.329,8,5
+app3_00643,cand_03,R3,Unity Developer (Middle) - Mobile F2P,HH,reject,0,2024-06-11,gamedev,0.509,6,1
+app3_00644,cand_02,R3,Unity Developer (Middle) - Mobile F2P,HH,reject,0,2024-10-03,gamedev,0.614,10,3
+app3_00645,cand_06,R1,Unity Developer - Hypercasual / LiveOps,HH,ignore,0,2024-03-22,gamedev,0.516,3,4
+app3_00646,cand_06,R1,Senior Unity Developer - Multiplayer (Photon),LinkedIn,reject,0,2024-12-13,gamedev,0.178,12,4
+app3_00647,cand_01,R3,Unity Developer - Hypercasual / LiveOps,HH,ignore,0,2024-10-10,gamedev,0.658,10,3
+app3_00648,cand_04,R2,Unity Developer (WebGL) - Casual Games,InGameJob,reject,0,2024-08-28,gamedev,0.535,8,2
+app3_00649,cand_02,R2,Unity Developer (Middle) - Mobile F2P,HH,ignore,0,2024-01-12,gamedev,0.718,1,4
+app3_00650,cand_04,R2,Unity Developer (Middle) - Mobile F2P,HH,ignore,0,2024-08-13,gamedev,0.706,8,1
+app3_00651,cand_05,R2,Unity Developer - Hypercasual / LiveOps,HH,reject,0,2024-12-16,gamedev,0.526,12,0
+app3_00652,cand_02,R1,Senior Unity Developer - Multiplayer (Photon),LinkedIn,ignore,0,2024-07-19,gamedev,0.463,7,4
+app3_00653,cand_04,R1,Unity Developer (WebGL) - Casual Games,InGameJob,reject,0,2024-10-05,gamedev,0.362,10,5
+app3_00654,cand_02,R1,Unity Developer - Hypercasual / LiveOps,HH,reject,0,2024-12-25,gamedev,0.305,12,2
+app3_00655,cand_02,R2,Senior Unity Developer - Multiplayer (Photon),LinkedIn,ignore,0,2024-06-13,gamedev,0.516,6,3
+app3_00656,cand_06,R2,Unity Developer (WebGL) - Casual Games,InGameJob,reject,0,2024-04-24,gamedev,0.534,4,2
+app3_00657,cand_05,R3,Senior Unity Developer - Architecture / Tools,HH,ignore,0,2024-07-20,gamedev,0.507,7,5
+app3_00658,cand_03,R1,Unity Developer - Hypercasual / LiveOps,HH,ignore,0,2024-05-07,gamedev,0.474,5,1
+app3_00659,cand_01,R1,Senior Unity Developer - Architecture / Tools,HH,ignore,0,2024-01-17,gamedev,0.368,1,2
+app3_00660,cand_01,R2,Unity Developer (Middle) - Mobile F2P,HH,ignore,0,2024-03-07,gamedev,0.56,3,3
+app3_00661,cand_05,R1,Senior Unity Developer - Architecture / Tools,HH,ignore,0,2024-05-06,gamedev,0.116,5,0
+app3_00662,cand_01,R2,Unity Developer (Middle) - Mobile F2P,HH,ignore,0,2024-05-17,gamedev,0.564,5,4
+app3_00663,cand_02,R1,Unity Developer (Middle) - Mobile F2P,HH,ignore,0,2024-01-16,gamedev,0.401,1,1
+app3_00664,cand_05,R2,Unity Developer (WebGL) - Casual Games,InGameJob,reject,0,2024-08-04,gamedev,0.484,8,6
+app3_00665,cand_02,R1,Senior Unity Developer - Multiplayer (Photon),LinkedIn,ignore,0,2024-04-17,gamedev,0.415,4,2
+app3_00666,cand_04,R1,Unity Developer - Hypercasual / LiveOps,HH,ignore,0,2024-05-06,gamedev,0.243,5,0
+app3_00667,cand_05,R3,Unity Developer - Hypercasual / LiveOps,HH,reject,0,2024-02-26,gamedev,0.607,2,0
+app3_00668,cand_01,R3,Senior Unity Developer - VR/AR,LinkedIn,ignore,0,2024-11-10,gamedev,0.545,11,6
+app3_00669,cand_05,R2,Unity Developer (WebGL) - Casual Games,InGameJob,screening,1,2024-03-26,gamedev,0.47,3,1
+app3_00670,cand_01,R1,Unity Developer (Middle) - Mobile F2P,HH,reject,0,2024-06-14,gamedev,0.385,6,4
+app3_00671,cand_03,R3,Senior Unity Developer - Architecture / Tools,HH,reject,0,2024-09-05,gamedev,0.687,9,3
+app3_00672,cand_05,R1,Unity Developer - Hypercasual / LiveOps,HH,ignore,0,2024-09-03,gamedev,0.332,9,1
+app3_00673,cand_02,R1,Unity Developer (Middle) - Mobile F2P,HH,reject,0,2024-01-26,gamedev,0.439,1,4
+app3_00674,cand_05,R3,Senior Unity Developer - Architecture / Tools,HH,screening,1,2024-04-28,gamedev,0.434,4,6
+app3_00675,cand_02,R2,Senior Unity Developer - Multiplayer (Photon),LinkedIn,ignore,0,2024-05-27,gamedev,0.541,5,0
+app3_00676,cand_02,R2,Senior Unity Developer - VR/AR,LinkedIn,screening,1,2024-12-26,gamedev,0.636,12,3
+app3_00677,cand_06,R2,Senior Unity Developer - VR/AR,LinkedIn,reject,0,2024-01-26,gamedev,0.407,1,4
+app3_00678,cand_02,R3,Unity Developer (WebGL) - Casual Games,InGameJob,ignore,0,2024-06-24,gamedev,0.783,6,0
+app3_00679,cand_04,R1,Unity Developer - Hypercasual / LiveOps,HH,ignore,0,2024-09-22,gamedev,0.268,9,6
+app3_00680,cand_04,R3,Unity Developer (WebGL) - Casual Games,InGameJob,ignore,0,2024-09-04,gamedev,0.666,9,2
+app3_00681,cand_01,R1,Unity Developer (Middle) - Mobile F2P,HH,ignore,0,2024-02-11,gamedev,0.405,2,6
+app3_00682,cand_03,R2,Senior Unity Developer - Architecture / Tools,HH,reject,0,2024-12-22,gamedev,0.571,12,6
+app3_00683,cand_05,R2,Unity Developer (Middle) - Mobile F2P,HH,reject,0,2024-12-04,gamedev,0.671,12,2
+app3_00684,cand_03,R3,Senior Unity Developer - Architecture / Tools,HH,reject,0,2024-09-20,gamedev,0.76,9,4
+app3_00685,cand_06,R3,Senior Unity Developer - VR/AR,LinkedIn,ignore,0,2024-10-03,gamedev,0.542,10,3
+app3_00686,cand_04,R1,Senior Unity Developer - VR/AR,LinkedIn,ignore,0,2024-10-04,gamedev,0.628,10,4
+app3_00687,cand_03,R2,Senior Unity Developer - Multiplayer (Photon),LinkedIn,ignore,0,2024-05-03,gamedev,0.62,5,4
+app3_00688,cand_05,R2,Unity Developer - Hypercasual / LiveOps,HH,reject,0,2024-08-06,gamedev,0.472,8,1
+app3_00689,cand_04,R3,Unity Developer - Hypercasual / LiveOps,HH,ignore,0,2024-07-29,gamedev,0.632,7,0
+app3_00690,cand_02,R3,Unity Developer - Hypercasual / LiveOps,HH,reject,0,2024-09-25,gamedev,0.641,9,2
+app3_00691,cand_04,R2,Unity Developer - Hypercasual / LiveOps,HH,ignore,0,2024-01-09,gamedev,0.584,1,1
+app3_00692,cand_06,R2,Senior Unity Developer - Architecture / Tools,HH,reject,0,2024-11-24,gamedev,0.346,11,6
+app3_00693,cand_02,R2,Senior Unity Developer - VR/AR,LinkedIn,reject,0,2024-10-13,gamedev,0.443,10,6
+app3_00694,cand_03,R2,Unity Developer - Hypercasual / LiveOps,HH,reject,0,2024-06-10,gamedev,0.562,6,0
+app3_00695,cand_05,R3,Unity Developer (Middle) - Mobile F2P,HH,interview,1,2024-01-28,gamedev,0.735,1,6
+app3_00696,cand_04,R2,Unity Developer (WebGL) - Casual Games,InGameJob,reject,0,2024-05-17,gamedev,0.544,5,4
+app3_00697,cand_01,R2,Senior Unity Developer - VR/AR,LinkedIn,reject,0,2024-05-31,gamedev,0.536,5,4
+app3_00698,cand_05,R2,Unity Developer (Middle) - Mobile F2P,HH,reject,0,2024-04-05,gamedev,0.765,4,4
+app3_00699,cand_02,R1,Unity Developer (WebGL) - Casual Games,InGameJob,reject,0,2024-12-11,gamedev,0.643,12,2
+app3_00700,cand_05,R2,Unity Developer (Middle) - Mobile F2P,HH,reject,0,2024-10-12,gamedev,0.752,10,5
+app3_00701,cand_03,R1,Senior Unity Developer - Architecture / Tools,HH,ignore,0,2024-12-02,gamedev,0.513,12,0
+app3_00702,cand_02,R2,Unity Developer - Hypercasual / LiveOps,HH,reject,0,2024-03-06,gamedev,0.541,3,2
+app3_00703,cand_03,R3,Unity Developer (Middle) - Mobile F2P,HH,interview,1,2024-09-17,gamedev,0.588,9,1
+app3_00704,cand_04,R1,Senior Unity Developer - Architecture / Tools,HH,reject,0,2024-12-16,gamedev,0.296,12,0
+app3_00705,cand_01,R1,Unity Developer - Hypercasual / LiveOps,HH,reject,0,2024-01-24,gamedev,0.263,1,2
+app3_00706,cand_02,R1,Senior Unity Developer - Architecture / Tools,HH,reject,0,2024-06-07,gamedev,0.396,6,4
+app3_00707,cand_01,R2,Senior Unity Developer - Architecture / Tools,HH,ignore,0,2024-04-16,gamedev,0.573,4,1
+app3_00708,cand_05,R1,Unity Developer - Hypercasual / LiveOps,HH,ignore,0,2024-01-24,gamedev,0.405,1,2
+app3_00709,cand_02,R3,Unity Developer - Hypercasual / LiveOps,HH,reject,0,2024-11-10,gamedev,0.625,11,6
+app3_00710,cand_06,R1,Unity Developer (Middle) - Mobile F2P,HH,reject,0,2024-08-25,gamedev,0.44,8,6
+app3_00711,cand_04,R1,Senior Unity Developer - VR/AR,LinkedIn,screening,1,2024-01-31,gamedev,0.59,1,2
+app3_00712,cand_03,R3,Senior Unity Developer - Multiplayer (Photon),LinkedIn,ignore,0,2024-12-24,gamedev,0.595,12,1
+app3_00713,cand_05,R2,Senior Unity Developer - Architecture / Tools,HH,reject,0,2024-06-22,gamedev,0.349,6,5
+app3_00714,cand_04,R1,Senior Unity Developer - Multiplayer (Photon),LinkedIn,ignore,0,2024-04-09,gamedev,0.311,4,1
+app3_00715,cand_04,R1,Unity Developer (WebGL) - Casual Games,InGameJob,reject,0,2024-01-12,gamedev,0.466,1,4
+app3_00716,cand_04,R1,Senior Unity Developer - Architecture / Tools,HH,ignore,0,2024-08-15,gamedev,0.306,8,3
+app3_00717,cand_06,R3,Senior Unity Developer - VR/AR,LinkedIn,screening,1,2024-12-13,gamedev,0.557,12,4
+app3_00718,cand_02,R2,Senior Unity Developer - Multiplayer (Photon),LinkedIn,ignore,0,2024-09-17,gamedev,0.628,9,1
+app3_00719,cand_06,R2,Senior Unity Developer - VR/AR,LinkedIn,ignore,0,2024-05-14,gamedev,0.417,5,1
+app3_00720,cand_01,R3,Senior Unity Developer - VR/AR,LinkedIn,ignore,0,2024-07-05,gamedev,0.58,7,4
+app3_00721,cand_06,R3,Unity Developer (WebGL) - Casual Games,InGameJob,ignore,0,2024-12-17,gamedev,0.53,12,1
+app3_00722,cand_02,R3,Senior Unity Developer - Multiplayer (Photon),LinkedIn,ignore,0,2024-02-21,gamedev,0.669,2,2
+app3_00723,cand_05,R2,Senior Unity Developer - VR/AR,LinkedIn,ignore,0,2024-12-20,gamedev,0.406,12,4
+app3_00724,cand_02,R2,Senior Unity Developer - VR/AR,LinkedIn,reject,0,2024-05-18,gamedev,0.43,5,5
+app3_00725,cand_03,R1,Senior Unity Developer - Architecture / Tools,HH,ignore,0,2024-03-22,gamedev,0.535,3,4
+app3_00726,cand_02,R2,Senior Unity Developer - Architecture / Tools,HH,reject,0,2024-07-03,gamedev,0.75,7,2
+app3_00727,cand_04,R3,Senior Unity Developer - Multiplayer (Photon),LinkedIn,reject,0,2024-09-06,gamedev,0.686,9,4
+app3_00728,cand_03,R1,Unity Developer (WebGL) - Casual Games,InGameJob,reject,0,2024-04-01,gamedev,0.263,4,0
+app3_00729,cand_01,R3,Senior Unity Developer - VR/AR,LinkedIn,ignore,0,2024-06-24,gamedev,0.542,6,0
+app3_00730,cand_02,R1,Senior Unity Developer - Architecture / Tools,HH,reject,0,2024-03-01,gamedev,0.346,3,4
+app3_00731,cand_04,R1,Senior Unity Developer - Multiplayer (Photon),LinkedIn,screening,1,2024-12-16,gamedev,0.364,12,0
+app3_00732,cand_04,R1,Senior Unity Developer - Multiplayer (Photon),LinkedIn,reject,0,2024-12-30,gamedev,0.381,12,0
+app3_00733,cand_05,R3,Unity Developer (Middle) - Mobile F2P,HH,ignore,0,2024-05-29,gamedev,0.706,5,2
+app3_00734,cand_01,R3,Unity Developer (WebGL) - Casual Games,InGameJob,ignore,0,2024-11-21,gamedev,0.581,11,3
+app3_00735,cand_02,R2,Unity Developer - Hypercasual / LiveOps,HH,reject,0,2024-09-22,gamedev,0.543,9,6
+app3_00736,cand_05,R2,Senior Unity Developer - VR/AR,LinkedIn,ignore,0,2024-02-26,gamedev,0.379,2,0
+app3_00737,cand_06,R1,Unity Developer - Hypercasual / LiveOps,HH,reject,0,2024-06-09,gamedev,0.491,6,6
+app3_00738,cand_04,R3,Senior Unity Developer - Architecture / Tools,HH,ignore,0,2024-04-10,gamedev,0.607,4,2
+app3_00739,cand_02,R3,Senior Unity Developer - Architecture / Tools,HH,ignore,0,2024-04-28,gamedev,0.738,4,6
+app3_00740,cand_01,R1,Unity Developer (WebGL) - Casual Games,InGameJob,ignore,0,2024-07-18,gamedev,0.408,7,3
+app3_00741,cand_06,R2,Unity Developer (WebGL) - Casual Games,InGameJob,reject,0,2024-08-03,gamedev,0.518,8,5
+app3_00742,cand_02,R2,Senior Unity Developer - VR/AR,LinkedIn,reject,0,2024-06-04,gamedev,0.394,6,1
+app3_00743,cand_04,R3,Senior Unity Developer - Architecture / Tools,HH,ignore,0,2024-04-14,gamedev,0.591,4,6
+app3_00744,cand_03,R1,Senior Unity Developer - VR/AR,LinkedIn,ignore,0,2024-03-11,gamedev,0.326,3,0
+app3_00745,cand_04,R1,Senior Unity Developer - Architecture / Tools,HH,ignore,0,2024-12-08,gamedev,0.331,12,6
+app3_00746,cand_03,R2,Unity Developer (Middle) - Mobile F2P,HH,screening,1,2024-05-06,gamedev,0.475,5,0
+app3_00747,cand_02,R3,Unity Developer - Hypercasual / LiveOps,HH,ignore,0,2024-06-16,gamedev,0.514,6,6
+app3_00748,cand_03,R1,Senior Unity Developer - VR/AR,LinkedIn,reject,0,2024-12-29,gamedev,0.373,12,6
+app3_00749,cand_02,R1,Senior Unity Developer - Architecture / Tools,HH,test,1,2024-05-26,gamedev,0.422,5,6
+app3_00750,cand_04,R1,Senior Unity Developer - Architecture / Tools,HH,ignore,0,2024-10-01,gamedev,0.308,10,1
+app3_00751,cand_06,R2,Unity Developer (Middle) - Mobile F2P,HH,reject,0,2024-10-11,gamedev,0.636,10,4
+app3_00752,cand_06,R1,Unity Developer (Middle) - Mobile F2P,HH,reject,0,2024-02-22,gamedev,0.564,2,3
+app3_00753,cand_05,R1,Unity Developer (Middle) - Mobile F2P,HH,ignore,0,2024-07-29,gamedev,0.61,7,0
+app3_00754,cand_01,R1,Unity Developer (Middle) - Mobile F2P,HH,reject,0,2024-12-30,gamedev,0.374,12,0
+app3_00755,cand_06,R3,Unity Developer (Middle) - Mobile F2P,HH,reject,0,2024-03-29,gamedev,0.714,3,4
+app3_00756,cand_05,R1,Unity Developer - Hypercasual / LiveOps,HH,reject,0,2024-08-09,gamedev,0.383,8,4
+app3_00757,cand_02,R1,Senior Unity Developer - Architecture / Tools,HH,screening,1,2024-07-28,gamedev,0.376,7,6
+app3_00758,cand_05,R2,Unity Developer (Middle) - Mobile F2P,HH,ignore,0,2024-09-02,gamedev,0.746,9,0
+app3_00759,cand_04,R3,Senior Unity Developer - Multiplayer (Photon),LinkedIn,reject,0,2024-05-24,gamedev,0.66,5,4
+app3_00760,cand_06,R2,Senior Unity Developer - Architecture / Tools,HH,reject,0,2024-12-10,gamedev,0.457,12,1
+app3_00761,cand_02,R1,Senior Unity Developer - Multiplayer (Photon),LinkedIn,ignore,0,2024-01-09,gamedev,0.381,1,1
+app3_00762,cand_06,R1,Unity Developer (WebGL) - Casual Games,InGameJob,ignore,0,2024-12-11,gamedev,0.254,12,2
+app3_00763,cand_03,R1,Senior Unity Developer - Architecture / Tools,HH,reject,0,2024-10-10,gamedev,0.404,10,3
+app3_00764,cand_02,R1,Unity Developer (Middle) - Mobile F2P,HH,reject,0,2024-09-30,gamedev,0.47,9,0
+app3_00765,cand_03,R3,Senior Unity Developer - VR/AR,LinkedIn,ignore,0,2024-12-25,gamedev,0.514,12,2
+app3_00766,cand_01,R1,Senior Unity Developer - VR/AR,LinkedIn,ignore,0,2024-04-10,gamedev,0.295,4,2
+app3_00767,cand_02,R2,Unity Developer (WebGL) - Casual Games,InGameJob,reject,0,2024-05-23,gamedev,0.735,5,3
+app3_00768,cand_04,R2,Senior Unity Developer - VR/AR,LinkedIn,ignore,0,2024-06-30,gamedev,0.718,6,6
+app3_00769,cand_05,R1,Senior Unity Developer - Multiplayer (Photon),LinkedIn,ignore,0,2024-09-29,gamedev,0.174,9,6
+app3_00770,cand_01,R1,Senior Unity Developer - VR/AR,LinkedIn,ignore,0,2024-09-12,gamedev,0.269,9,3
+app3_00771,cand_01,R1,Senior Unity Developer - VR/AR,LinkedIn,ignore,0,2024-07-20,gamedev,0.271,7,5
+app3_00772,cand_04,R1,Senior Unity Developer - Multiplayer (Photon),LinkedIn,reject,0,2024-06-22,gamedev,0.386,6,5
+app3_00773,cand_03,R1,Senior Unity Developer - Architecture / Tools,HH,reject,0,2024-11-24,gamedev,0.546,11,6
+app3_00774,cand_04,R1,Senior Unity Developer - Architecture / Tools,HH,reject,0,2024-06-29,gamedev,0.402,6,5
+app3_00775,cand_04,R2,Senior Unity Developer - Architecture / Tools,HH,reject,0,2024-04-17,gamedev,0.566,4,2
+app3_00776,cand_03,R3,Senior Unity Developer - Architecture / Tools,HH,interview,1,2024-08-07,gamedev,0.73,8,2
+app3_00777,cand_02,R1,Senior Unity Developer - Architecture / Tools,HH,ignore,0,2024-12-15,gamedev,0.374,12,6
+app3_00778,cand_05,R1,Unity Developer (Middle) - Mobile F2P,HH,reject,0,2024-12-07,gamedev,0.653,12,5
+app3_00779,cand_05,R3,Senior Unity Developer - Multiplayer (Photon),LinkedIn,reject,0,2024-07-27,gamedev,0.312,7,5
+app3_00780,cand_02,R3,Senior Unity Developer - Architecture / Tools,HH,reject,0,2024-07-11,gamedev,0.694,7,3
+app3_00781,cand_03,R1,Unity Developer (WebGL) - Casual Games,InGameJob,ignore,0,2024-06-08,gamedev,0.331,6,5
+app3_00782,cand_05,R1,Unity Developer (WebGL) - Casual Games,InGameJob,reject,0,2024-05-27,gamedev,0.385,5,0
+app3_00783,cand_05,R1,Senior Unity Developer - VR/AR,LinkedIn,ignore,0,2024-07-01,gamedev,0.224,7,0
+app3_00784,cand_06,R1,Senior Unity Developer - VR/AR,LinkedIn,reject,0,2024-02-16,gamedev,0.349,2,4
+app3_00785,cand_01,R1,Unity Developer - Hypercasual / LiveOps,HH,reject,0,2024-02-04,gamedev,0.357,2,6
+app3_00786,cand_01,R1,Unity Developer (WebGL) - Casual Games,InGameJob,ignore,0,2024-06-02,gamedev,0.356,6,6
+app3_00787,cand_02,R3,Senior Unity Developer - VR/AR,LinkedIn,reject,0,2024-06-22,gamedev,0.612,6,5
+app3_00788,cand_05,R2,Unity Developer (Middle) - Mobile F2P,HH,reject,0,2024-09-27,gamedev,0.708,9,4
+app3_00789,cand_01,R3,Unity Developer - Hypercasual / LiveOps,HH,reject,0,2024-11-12,gamedev,0.629,11,1
+app3_00790,cand_02,R1,Unity Developer (WebGL) - Casual Games,InGameJob,reject,0,2024-06-16,gamedev,0.656,6,6
+app3_00791,cand_04,R2,Senior Unity Developer - Architecture / Tools,HH,reject,0,2024-05-19,gamedev,0.537,5,6
+app3_00792,cand_02,R3,Unity Developer (WebGL) - Casual Games,InGameJob,ignore,0,2024-07-15,gamedev,0.825,7,0
+app3_00793,cand_01,R2,Senior Unity Developer - VR/AR,LinkedIn,ignore,0,2024-11-26,gamedev,0.508,11,1
+app3_00794,cand_03,R1,Senior Unity Developer - Multiplayer (Photon),LinkedIn,ignore,0,2024-10-16,gamedev,0.371,10,2
+app3_00795,cand_01,R1,Senior Unity Developer - Multiplayer (Photon),LinkedIn,reject,0,2024-08-11,gamedev,0.505,8,6
+app3_00796,cand_05,R3,Senior Unity Developer - Architecture / Tools,HH,reject,0,2024-03-21,gamedev,0.574,3,3
+app3_00797,cand_05,R2,Unity Developer (Middle) - Mobile F2P,HH,ignore,0,2024-12-18,gamedev,0.768,12,2
+app3_00798,cand_05,R1,Senior Unity Developer - Architecture / Tools,HH,reject,0,2024-08-27,gamedev,0.218,8,1
+app3_00799,cand_06,R1,Unity Developer - Hypercasual / LiveOps,HH,reject,0,2024-03-02,gamedev,0.561,3,5
+app3_00800,cand_05,R2,Senior Unity Developer - VR/AR,LinkedIn,reject,0,2024-05-31,gamedev,0.413,5,4
+app3_00801,cand_04,R1,Senior Unity Developer - Multiplayer (Photon),LinkedIn,ignore,0,2024-01-02,gamedev,0.342,1,1
+app3_00802,cand_05,R2,Senior Unity Developer - VR/AR,LinkedIn,ignore,0,2024-08-17,gamedev,0.358,8,5
+app3_00803,cand_06,R2,Senior Unity Developer - Architecture / Tools,HH,reject,0,2024-01-10,gamedev,0.398,1,2
+app3_00804,cand_05,R2,Unity Developer (Middle) - Mobile F2P,HH,reject,0,2024-09-04,gamedev,0.726,9,2
+app3_00805,cand_02,R3,Unity Developer - Hypercasual / LiveOps,HH,reject,0,2024-06-21,gamedev,0.578,6,4
+app3_00806,cand_05,R3,Unity Developer (WebGL) - Casual Games,InGameJob,ignore,0,2024-07-21,gamedev,0.614,7,6
+app3_00807,cand_06,R2,Senior Unity Developer - VR/AR,LinkedIn,ignore,0,2024-08-06,gamedev,0.391,8,1
+app3_00808,cand_05,R2,Senior Unity Developer - Multiplayer (Photon),LinkedIn,ignore,0,2024-11-12,gamedev,0.382,11,1
+app3_00809,cand_06,R3,Senior Unity Developer - Multiplayer (Photon),LinkedIn,reject,0,2024-09-13,gamedev,0.439,9,4
+app3_00810,cand_02,R2,Senior Unity Developer - Multiplayer (Photon),LinkedIn,ignore,0,2024-05-29,gamedev,0.536,5,2
+app3_00811,cand_06,R2,Senior Unity Developer - Multiplayer (Photon),LinkedIn,ignore,0,2024-12-17,gamedev,0.36,12,1
+app3_00812,cand_03,R1,Unity Developer (WebGL) - Casual Games,InGameJob,ignore,0,2024-12-16,gamedev,0.317,12,0
+app3_00813,cand_01,R1,Unity Developer (WebGL) - Casual Games,InGameJob,reject,0,2024-05-25,gamedev,0.381,5,5
+app3_00814,cand_02,R1,Senior Unity Developer - VR/AR,LinkedIn,ignore,0,2024-07-08,gamedev,0.43,7,0
+app3_00815,cand_02,R1,Unity Developer (Middle) - Mobile F2P,HH,reject,0,2024-09-19,gamedev,0.446,9,3
+app3_00816,cand_01,R3,Senior Unity Developer - Architecture / Tools,HH,reject,0,2024-06-10,gamedev,0.646,6,0
+app3_00817,cand_04,R1,Senior Unity Developer - Multiplayer (Photon),LinkedIn,ignore,0,2024-04-30,gamedev,0.434,4,1
+app3_00818,cand_02,R3,Unity Developer (WebGL) - Casual Games,InGameJob,reject,0,2024-03-18,gamedev,0.663,3,0
+app3_00819,cand_05,R3,Unity Developer (Middle) - Mobile F2P,HH,interview,1,2024-06-05,gamedev,0.793,6,2
+app3_00820,cand_03,R2,Senior Unity Developer - Multiplayer (Photon),LinkedIn,reject,0,2024-04-21,gamedev,0.636,4,6
+app3_00821,cand_03,R2,Senior Unity Developer - VR/AR,LinkedIn,reject,0,2024-05-11,gamedev,0.398,5,5
+app3_00822,cand_02,R2,Senior Unity Developer - Architecture / Tools,HH,reject,0,2024-04-18,gamedev,0.554,4,3
+app3_00823,cand_02,R1,Senior Unity Developer - Multiplayer (Photon),LinkedIn,ignore,0,2024-04-03,gamedev,0.428,4,2
+app3_00824,cand_06,R3,Senior Unity Developer - Architecture / Tools,HH,reject,0,2024-02-15,gamedev,0.453,2,3
+app3_00825,cand_03,R1,Unity Developer (Middle) - Mobile F2P,HH,screening,1,2024-05-13,gamedev,0.324,5,0
+app3_00826,cand_05,R3,Unity Developer (Middle) - Mobile F2P,HH,reject,0,2024-02-11,gamedev,0.734,2,6
+app3_00827,cand_06,R3,Senior Unity Developer - Multiplayer (Photon),LinkedIn,reject,0,2024-08-27,gamedev,0.479,8,1
+app3_00828,cand_01,R3,Unity Developer (Middle) - Mobile F2P,HH,reject,0,2024-11-25,gamedev,0.484,11,0
+app3_00829,cand_04,R3,Unity Developer (Middle) - Mobile F2P,HH,reject,0,2024-08-08,gamedev,0.581,8,3
+app3_00830,cand_02,R1,Senior Unity Developer - VR/AR,LinkedIn,reject,0,2024-03-27,gamedev,0.427,3,2
+app3_00831,cand_02,R1,Unity Developer (Middle) - Mobile F2P,HH,reject,0,2024-04-30,gamedev,0.393,4,1
+app3_00832,cand_06,R1,Unity Developer (WebGL) - Casual Games,InGameJob,reject,0,2024-05-31,gamedev,0.414,5,4
+app3_00833,cand_01,R3,Senior Unity Developer - Architecture / Tools,HH,reject,0,2024-06-10,gamedev,0.568,6,0
+app3_00834,cand_05,R2,Senior Unity Developer - Architecture / Tools,HH,reject,0,2024-02-02,gamedev,0.415,2,4
+app3_00835,cand_01,R3,Unity Developer (WebGL) - Casual Games,InGameJob,ignore,0,2024-10-29,gamedev,0.557,10,1
+app3_00836,cand_02,R1,Unity Developer - Hypercasual / LiveOps,HH,reject,0,2024-09-04,gamedev,0.311,9,2
+app3_00837,cand_04,R2,Unity Developer (Middle) - Mobile F2P,HH,reject,0,2024-11-28,gamedev,0.66,11,3
+app3_00838,cand_05,R2,Unity Developer (WebGL) - Casual Games,InGameJob,ignore,0,2024-07-24,gamedev,0.532,7,2
+app3_00839,cand_02,R2,Unity Developer - Hypercasual / LiveOps,HH,reject,0,2024-10-08,gamedev,0.574,10,1
+app3_00840,cand_01,R1,Senior Unity Developer - VR/AR,LinkedIn,ignore,0,2024-01-18,gamedev,0.216,1,3
+app3_00841,cand_04,R2,Unity Developer (WebGL) - Casual Games,InGameJob,ignore,0,2024-04-15,gamedev,0.542,4,0
+app3_00842,cand_03,R1,Unity Developer (Middle) - Mobile F2P,HH,ignore,0,2024-02-06,gamedev,0.301,2,1
+app3_00843,cand_03,R1,Unity Developer - Hypercasual / LiveOps,HH,ignore,0,2024-12-03,gamedev,0.483,12,1
+app3_00844,cand_04,R3,Unity Developer - Hypercasual / LiveOps,HH,ignore,0,2024-12-19,gamedev,0.566,12,3
+app3_00845,cand_06,R2,Unity Developer - Hypercasual / LiveOps,HH,reject,0,2024-07-30,gamedev,0.663,7,1
+app3_00846,cand_01,R3,Unity Developer - Hypercasual / LiveOps,HH,ignore,0,2024-03-09,gamedev,0.54,3,5
+app3_00847,cand_05,R1,Unity Developer - Hypercasual / LiveOps,HH,reject,0,2024-06-20,gamedev,0.41,6,3
+app3_00848,cand_01,R3,Senior Unity Developer - Architecture / Tools,HH,ignore,0,2024-08-25,gamedev,0.671,8,6
+app3_00849,cand_01,R3,Senior Unity Developer - Multiplayer (Photon),LinkedIn,ignore,0,2024-01-09,gamedev,0.724,1,1
+app3_00850,cand_05,R3,Unity Developer - Hypercasual / LiveOps,HH,reject,0,2024-08-23,gamedev,0.648,8,4
+app3_00851,cand_01,R3,Senior Unity Developer - Multiplayer (Photon),LinkedIn,ignore,0,2024-04-03,gamedev,0.694,4,2
+app3_00852,cand_01,R2,Senior Unity Developer - Architecture / Tools,HH,interview,1,2024-08-15,gamedev,0.589,8,3
+app3_00853,cand_06,R2,Unity Developer (WebGL) - Casual Games,InGameJob,ignore,0,2024-03-29,gamedev,0.543,3,4
+app3_00854,cand_03,R1,Senior Unity Developer - Multiplayer (Photon),LinkedIn,ignore,0,2024-05-23,gamedev,0.394,5,3
+app3_00855,cand_02,R3,Unity Developer (Middle) - Mobile F2P,HH,ignore,0,2024-11-10,gamedev,0.549,11,6
+app3_00856,cand_04,R3,Unity Developer - Hypercasual / LiveOps,HH,interview,1,2024-06-18,gamedev,0.629,6,1
+app3_00857,cand_06,R2,Unity Developer (WebGL) - Casual Games,InGameJob,reject,0,2024-11-23,gamedev,0.465,11,5
+app3_00858,cand_02,R1,Senior Unity Developer - Architecture / Tools,HH,reject,0,2024-02-05,gamedev,0.458,2,0
+app3_00859,cand_05,R2,Senior Unity Developer - Architecture / Tools,HH,reject,0,2024-10-10,gamedev,0.433,10,3
+app3_00860,cand_06,R3,Senior Unity Developer - Multiplayer (Photon),LinkedIn,ignore,0,2024-08-04,gamedev,0.49,8,6
+app3_00861,cand_01,R3,Unity Developer (Middle) - Mobile F2P,HH,ignore,0,2024-09-02,gamedev,0.615,9,0
+app3_00862,cand_06,R1,Senior Unity Developer - VR/AR,LinkedIn,ignore,0,2024-08-02,gamedev,0.352,8,4
+app3_00863,cand_04,R1,Unity Developer (WebGL) - Casual Games,InGameJob,ignore,0,2024-01-12,gamedev,0.395,1,4
+app3_00864,cand_05,R2,Senior Unity Developer - Architecture / Tools,HH,ignore,0,2024-11-17,gamedev,0.415,11,6
+app3_00865,cand_05,R2,Senior Unity Developer - Multiplayer (Photon),LinkedIn,ignore,0,2024-04-05,gamedev,0.31,4,4
+app3_00866,cand_04,R2,Unity Developer - Hypercasual / LiveOps,HH,reject,0,2024-03-10,gamedev,0.458,3,6
+app3_00867,cand_05,R3,Unity Developer (WebGL) - Casual Games,InGameJob,reject,0,2024-03-09,gamedev,0.632,3,5
+app3_00868,cand_02,R2,Unity Developer (WebGL) - Casual Games,InGameJob,interview,1,2024-03-18,gamedev,0.73,3,0
+app3_00869,cand_06,R2,Senior Unity Developer - Multiplayer (Photon),LinkedIn,reject,0,2024-03-15,gamedev,0.354,3,4
+app3_00870,cand_05,R2,Senior Unity Developer - Multiplayer (Photon),LinkedIn,reject,0,2024-06-14,gamedev,0.396,6,4
+app3_00871,cand_02,R2,Senior Unity Developer - VR/AR,LinkedIn,reject,0,2024-11-14,gamedev,0.592,11,3
+app3_00872,cand_06,R1,Senior Unity Developer - VR/AR,LinkedIn,ignore,0,2024-06-01,gamedev,0.241,6,5
+app3_00873,cand_02,R2,Senior Unity Developer - Architecture / Tools,HH,ignore,0,2024-10-31,gamedev,0.564,10,3
+app3_00874,cand_06,R2,Senior Unity Developer - VR/AR,LinkedIn,ignore,0,2024-09-08,gamedev,0.308,9,6
+app3_00875,cand_01,R2,Senior Unity Developer - Architecture / Tools,HH,reject,0,2024-07-22,gamedev,0.622,7,0
+app3_00876,cand_01,R2,Senior Unity Developer - VR/AR,LinkedIn,ignore,0,2024-03-01,gamedev,0.503,3,4
+app3_00877,cand_04,R2,Senior Unity Developer - Multiplayer (Photon),LinkedIn,reject,0,2024-06-29,gamedev,0.485,6,5
+app3_00878,cand_03,R1,Senior Unity Developer - Multiplayer (Photon),LinkedIn,reject,0,2024-01-04,gamedev,0.289,1,3
+app3_00879,cand_06,R3,Senior Unity Developer - VR/AR,LinkedIn,ignore,0,2024-08-19,gamedev,0.392,8,0
+app3_00880,cand_02,R2,Senior Unity Developer - Multiplayer (Photon),LinkedIn,ignore,0,2024-09-11,gamedev,0.594,9,2
+app3_00881,cand_02,R2,Senior Unity Developer - Multiplayer (Photon),LinkedIn,screening,1,2024-08-25,gamedev,0.495,8,6
+app3_00882,cand_01,R3,Senior Unity Developer - Architecture / Tools,HH,reject,0,2024-09-28,gamedev,0.669,9,5
+app3_00883,cand_02,R3,Unity Developer (Middle) - Mobile F2P,HH,reject,0,2024-08-22,gamedev,0.581,8,3
+app3_00884,cand_06,R2,Unity Developer - Hypercasual / LiveOps,HH,reject,0,2024-03-05,gamedev,0.597,3,1
+app3_00885,cand_03,R3,Senior Unity Developer - Architecture / Tools,HH,reject,0,2024-06-22,gamedev,0.636,6,5
+app3_00886,cand_01,R1,Unity Developer - Hypercasual / LiveOps,HH,screening,1,2024-11-09,gamedev,0.277,11,5
+app3_00887,cand_05,R2,Senior Unity Developer - Multiplayer (Photon),LinkedIn,ignore,0,2024-09-28,gamedev,0.367,9,5
+app3_00888,cand_02,R3,Senior Unity Developer - VR/AR,LinkedIn,ignore,0,2024-09-01,gamedev,0.628,9,6
+app3_00889,cand_03,R1,Unity Developer (Middle) - Mobile F2P,HH,reject,0,2024-01-11,gamedev,0.285,1,3
+app3_00890,cand_01,R1,Senior Unity Developer - Architecture / Tools,HH,reject,0,2024-08-02,gamedev,0.452,8,4
+app3_00891,cand_02,R3,Unity Developer (Middle) - Mobile F2P,HH,ignore,0,2024-10-17,gamedev,0.516,10,3
+app3_00892,cand_04,R2,Senior Unity Developer - Architecture / Tools,HH,ignore,0,2024-03-08,gamedev,0.55,3,4
+app3_00893,cand_06,R2,Senior Unity Developer - VR/AR,LinkedIn,ignore,0,2024-01-05,gamedev,0.427,1,4
+app3_00894,cand_02,R3,Senior Unity Developer - Multiplayer (Photon),LinkedIn,ignore,0,2024-11-14,gamedev,0.667,11,3
+app3_00895,cand_04,R3,Senior Unity Developer - VR/AR,LinkedIn,ignore,0,2024-08-09,gamedev,0.705,8,4
+app3_00896,cand_05,R1,Senior Unity Developer - VR/AR,LinkedIn,reject,0,2024-03-18,gamedev,0.13,3,0
+app3_00897,cand_01,R1,Senior Unity Developer - Multiplayer (Photon),LinkedIn,ignore,0,2024-03-06,gamedev,0.453,3,2
+app3_00898,cand_03,R2,Unity Developer - Hypercasual / LiveOps,HH,ignore,0,2024-04-04,gamedev,0.749,4,3
+app3_00899,cand_06,R3,Unity Developer (WebGL) - Casual Games,InGameJob,ignore,0,2024-01-24,gamedev,0.628,1,2
+app3_00900,cand_02,R2,Senior Unity Developer - VR/AR,LinkedIn,ignore,0,2024-08-04,gamedev,0.475,8,6
+app3_00901,cand_03,R1,Senior Unity Developer - Multiplayer (Photon),LinkedIn,ignore,0,2024-02-16,gamedev,0.465,2,4
+app3_00902,cand_04,R1,Senior Unity Developer - Architecture / Tools,HH,reject,0,2024-07-26,gamedev,0.306,7,4
+app3_00903,cand_06,R1,Unity Developer - Hypercasual / LiveOps,HH,reject,0,2024-08-29,gamedev,0.502,8,3
+app3_00904,cand_06,R1,Senior Unity Developer - Architecture / Tools,HH,ignore,0,2024-11-08,gamedev,0.249,11,4
+app3_00905,cand_02,R1,Senior Unity Developer - Multiplayer (Photon),LinkedIn,ignore,0,2024-09-12,gamedev,0.421,9,3
+app3_00906,cand_05,R2,Unity Developer (WebGL) - Casual Games,InGameJob,ignore,0,2024-07-29,gamedev,0.514,7,0
+app3_00907,cand_01,R2,Unity Developer - Hypercasual / LiveOps,HH,ignore,0,2024-02-26,gamedev,0.446,2,0
+app3_00908,cand_02,R1,Unity Developer (WebGL) - Casual Games,InGameJob,ignore,0,2024-03-28,gamedev,0.575,3,3
+app3_00909,cand_06,R2,Senior Unity Developer - VR/AR,LinkedIn,ignore,0,2024-03-31,gamedev,0.501,3,6
+app3_00910,cand_05,R2,Unity Developer (Middle) - Mobile F2P,HH,ignore,0,2024-03-24,gamedev,0.791,3,6
+app3_00911,cand_04,R2,Unity Developer - Hypercasual / LiveOps,HH,reject,0,2024-07-15,gamedev,0.526,7,0
+app3_00912,cand_03,R2,Unity Developer - Hypercasual / LiveOps,HH,screening,1,2024-07-23,gamedev,0.667,7,1
+app3_00913,cand_06,R2,Unity Developer (WebGL) - Casual Games,InGameJob,reject,0,2024-09-21,gamedev,0.524,9,5
+app3_00914,cand_01,R3,Senior Unity Developer - VR/AR,LinkedIn,ignore,0,2024-03-29,gamedev,0.486,3,4
+app3_00915,cand_03,R1,Senior Unity Developer - VR/AR,LinkedIn,ignore,0,2024-10-11,gamedev,0.37,10,4
+app3_00916,cand_04,R1,Senior Unity Developer - Architecture / Tools,HH,reject,0,2024-07-23,gamedev,0.353,7,1
+app3_00917,cand_01,R2,Senior Unity Developer - VR/AR,LinkedIn,reject,0,2024-06-03,gamedev,0.498,6,0
+app3_00918,cand_06,R1,Senior Unity Developer - Multiplayer (Photon),LinkedIn,ignore,0,2024-10-08,gamedev,0.163,10,1
+app3_00919,cand_01,R3,Unity Developer - Hypercasual / LiveOps,HH,reject,0,2024-01-15,gamedev,0.675,1,0
+app3_00920,cand_04,R3,Unity Developer (WebGL) - Casual Games,InGameJob,reject,0,2024-02-24,gamedev,0.648,2,5
+app3_00921,cand_02,R1,Senior Unity Developer - Architecture / Tools,HH,reject,0,2024-04-21,gamedev,0.344,4,6
+app3_00922,cand_04,R3,Senior Unity Developer - VR/AR,LinkedIn,ignore,0,2024-03-06,gamedev,0.761,3,2
+app3_00923,cand_04,R1,Senior Unity Developer - VR/AR,LinkedIn,reject,0,2024-11-01,gamedev,0.724,11,4
+app3_00924,cand_06,R1,Unity Developer (Middle) - Mobile F2P,HH,reject,0,2024-08-10,gamedev,0.474,8,5
+app3_00925,cand_04,R1,Senior Unity Developer - Multiplayer (Photon),LinkedIn,ignore,0,2024-12-09,gamedev,0.369,12,0
+app3_00926,cand_05,R2,Senior Unity Developer - Architecture / Tools,HH,ignore,0,2024-12-28,gamedev,0.374,12,5
+app3_00927,cand_06,R3,Senior Unity Developer - Architecture / Tools,HH,ignore,0,2024-04-16,gamedev,0.51,4,1
+app3_00928,cand_03,R1,Senior Unity Developer - VR/AR,LinkedIn,reject,0,2024-04-27,gamedev,0.296,4,5
+app3_00929,cand_03,R2,Unity Developer (Middle) - Mobile F2P,HH,reject,0,2024-10-17,gamedev,0.483,10,3
+app3_00930,cand_04,R3,Unity Developer - Hypercasual / LiveOps,HH,ignore,0,2024-12-02,gamedev,0.645,12,0
+app3_00931,cand_01,R2,Unity Developer (WebGL) - Casual Games,InGameJob,ignore,0,2024-01-13,gamedev,0.611,1,5
+app3_00932,cand_06,R1,Unity Developer (Middle) - Mobile F2P,HH,reject,0,2024-07-19,gamedev,0.507,7,4
+app3_00933,cand_04,R1,Senior Unity Developer - Architecture / Tools,HH,reject,0,2024-11-03,gamedev,0.339,11,6
+app3_00934,cand_03,R2,Unity Developer (Middle) - Mobile F2P,HH,ignore,0,2024-07-22,gamedev,0.549,7,0
+app3_00935,cand_06,R3,Senior Unity Developer - Multiplayer (Photon),LinkedIn,reject,0,2024-04-25,gamedev,0.384,4,3
+app3_00936,cand_02,R3,Senior Unity Developer - Multiplayer (Photon),LinkedIn,ignore,0,2024-06-22,gamedev,0.652,6,5
+app3_00937,cand_02,R2,Unity Developer - Hypercasual / LiveOps,HH,reject,0,2024-03-29,gamedev,0.577,3,4
+app3_00938,cand_02,R1,Unity Developer (Middle) - Mobile F2P,HH,ignore,0,2024-11-19,gamedev,0.422,11,1
+app3_00939,cand_06,R1,Unity Developer (WebGL) - Casual Games,InGameJob,ignore,0,2024-05-11,gamedev,0.34,5,5
+app3_00940,cand_05,R1,Unity Developer (WebGL) - Casual Games,InGameJob,reject,0,2024-02-03,gamedev,0.384,2,5
+app3_00941,cand_06,R2,Senior Unity Developer - Multiplayer (Photon),LinkedIn,reject,0,2024-11-22,gamedev,0.348,11,4
+app3_00942,cand_01,R1,Unity Developer - Hypercasual / LiveOps,HH,reject,0,2024-04-18,gamedev,0.266,4,3
+app3_00943,cand_01,R3,Unity Developer - Hypercasual / LiveOps,HH,ignore,0,2024-11-24,gamedev,0.655,11,6
+app3_00944,cand_03,R1,Unity Developer - Hypercasual / LiveOps,HH,screening,1,2024-04-24,gamedev,0.459,4,2
+app3_00945,cand_01,R3,Senior Unity Developer - Multiplayer (Photon),LinkedIn,ignore,0,2024-08-24,gamedev,0.608,8,5
+app3_00946,cand_05,R3,Senior Unity Developer - VR/AR,LinkedIn,ignore,0,2024-08-25,gamedev,0.452,8,6
+app3_00947,cand_01,R3,Senior Unity Developer - Architecture / Tools,HH,reject,0,2024-12-25,gamedev,0.727,12,2
+app3_00948,cand_05,R1,Unity Developer (Middle) - Mobile F2P,HH,reject,0,2024-05-25,gamedev,0.688,5,5
+app3_00949,cand_03,R3,Unity Developer - Hypercasual / LiveOps,HH,ignore,0,2024-09-29,gamedev,0.628,9,6
+app3_00950,cand_04,R2,Unity Developer (Middle) - Mobile F2P,HH,reject,0,2024-12-04,gamedev,0.514,12,2
+app3_00951,cand_01,R2,Senior Unity Developer - Architecture / Tools,HH,reject,0,2024-11-26,gamedev,0.543,11,1
+app3_00952,cand_06,R3,Unity Developer (WebGL) - Casual Games,InGameJob,reject,0,2024-10-07,gamedev,0.591,10,0
+app3_00953,cand_01,R3,Senior Unity Developer - Architecture / Tools,HH,reject,0,2024-06-18,gamedev,0.672,6,1
+app3_00954,cand_02,R2,Senior Unity Developer - VR/AR,LinkedIn,ignore,0,2024-06-13,gamedev,0.499,6,3
+app3_00955,cand_01,R2,Senior Unity Developer - Multiplayer (Photon),LinkedIn,ignore,0,2024-12-02,gamedev,0.635,12,0
+app3_00956,cand_01,R3,Senior Unity Developer - Multiplayer (Photon),LinkedIn,reject,0,2024-11-10,gamedev,0.688,11,6
+app3_00957,cand_02,R1,Unity Developer (WebGL) - Casual Games,InGameJob,ignore,0,2024-03-16,gamedev,0.516,3,5
+app3_00958,cand_05,R2,Senior Unity Developer - Architecture / Tools,HH,ignore,0,2024-12-18,gamedev,0.353,12,2
+app3_00959,cand_05,R2,Unity Developer (Middle) - Mobile F2P,HH,reject,0,2024-06-01,gamedev,0.831,6,5
+app3_00960,cand_06,R3,Unity Developer (WebGL) - Casual Games,InGameJob,reject,0,2024-09-30,gamedev,0.598,9,0
+app3_00961,cand_01,R1,Senior Unity Developer - VR/AR,LinkedIn,ignore,0,2024-09-04,gamedev,0.268,9,2
+app3_00962,cand_04,R3,Unity Developer - Hypercasual / LiveOps,HH,reject,0,2024-07-01,gamedev,0.623,7,0
+app3_00963,cand_02,R1,Unity Developer - Hypercasual / LiveOps,HH,reject,0,2024-09-11,gamedev,0.291,9,2
+app3_00964,cand_03,R3,Unity Developer - Hypercasual / LiveOps,HH,ignore,0,2024-09-15,gamedev,0.722,9,6
+app3_00965,cand_01,R1,Unity Developer (WebGL) - Casual Games,InGameJob,reject,0,2024-04-07,gamedev,0.288,4,6
+app3_00966,cand_05,R1,Senior Unity Developer - Architecture / Tools,HH,ignore,0,2024-09-11,gamedev,0.187,9,2
+app3_00967,cand_02,R1,Unity Developer - Hypercasual / LiveOps,HH,ignore,0,2024-07-26,gamedev,0.36,7,4
+app3_00968,cand_06,R1,Senior Unity Developer - Architecture / Tools,HH,screening,1,2024-11-14,gamedev,0.174,11,3
+app3_00969,cand_05,R1,Senior Unity Developer - VR/AR,LinkedIn,reject,0,2024-11-23,gamedev,0.28,11,5
+app3_00970,cand_02,R1,Unity Developer (Middle) - Mobile F2P,HH,reject,0,2024-08-05,gamedev,0.362,8,0
+app3_00971,cand_06,R3,Senior Unity Developer - Multiplayer (Photon),LinkedIn,ignore,0,2024-04-23,gamedev,0.479,4,1
+app3_00972,cand_06,R3,Unity Developer (Middle) - Mobile F2P,HH,reject,0,2024-01-22,gamedev,0.702,1,0
+app3_00973,cand_03,R3,Unity Developer - Hypercasual / LiveOps,HH,reject,0,2024-03-06,gamedev,0.644,3,2
+app3_00974,cand_01,R3,Senior Unity Developer - Architecture / Tools,HH,ignore,0,2024-05-17,gamedev,0.625,5,4
+app3_00975,cand_06,R3,Unity Developer (Middle) - Mobile F2P,HH,reject,0,2024-09-05,gamedev,0.711,9,3
+app3_00976,cand_03,R2,Unity Developer (Middle) - Mobile F2P,HH,ignore,0,2024-02-08,gamedev,0.492,2,3
+app3_00977,cand_04,R2,Senior Unity Developer - Multiplayer (Photon),LinkedIn,ignore,0,2024-04-15,gamedev,0.535,4,0
+app3_00978,cand_04,R1,Senior Unity Developer - Multiplayer (Photon),LinkedIn,ignore,0,2024-03-15,gamedev,0.394,3,4
+app3_00979,cand_01,R2,Unity Developer (Middle) - Mobile F2P,HH,ignore,0,2024-10-03,gamedev,0.53,10,3
+app3_00980,cand_03,R1,Senior Unity Developer - VR/AR,LinkedIn,reject,0,2024-05-31,gamedev,0.27,5,4
+app3_00981,cand_06,R2,Unity Developer (WebGL) - Casual Games,InGameJob,ignore,0,2024-07-08,gamedev,0.477,7,0
+app3_00982,cand_06,R3,Unity Developer - Hypercasual / LiveOps,HH,reject,0,2024-11-10,gamedev,0.756,11,6
+app3_00983,cand_04,R1,Unity Developer - Hypercasual / LiveOps,HH,reject,0,2024-08-21,gamedev,0.222,8,2
+app3_00984,cand_02,R1,Unity Developer (WebGL) - Casual Games,InGameJob,ignore,0,2024-06-01,gamedev,0.669,6,5
+app3_00985,cand_06,R1,Senior Unity Developer - Multiplayer (Photon),LinkedIn,ignore,0,2024-12-04,gamedev,0.197,12,2
+app3_00986,cand_06,R3,Senior Unity Developer - Architecture / Tools,HH,reject,0,2024-07-06,gamedev,0.471,7,5
+app3_00987,cand_03,R1,Senior Unity Developer - VR/AR,LinkedIn,screening,1,2024-03-18,gamedev,0.302,3,0
+app3_00988,cand_05,R1,Unity Developer (WebGL) - Casual Games,InGameJob,interview,1,2024-12-16,gamedev,0.358,12,0
+app3_00989,cand_04,R2,Unity Developer - Hypercasual / LiveOps,HH,ignore,0,2024-04-05,gamedev,0.456,4,4
+app3_00990,cand_02,R2,Senior Unity Developer - Architecture / Tools,HH,reject,0,2024-06-06,gamedev,0.599,6,3
+app3_00991,cand_03,R1,Senior Unity Developer - VR/AR,LinkedIn,ignore,0,2024-12-01,gamedev,0.286,12,6
+app3_00992,cand_03,R2,Unity Developer (Middle) - Mobile F2P,HH,interview,1,2024-08-02,gamedev,0.495,8,4
+app3_00993,cand_05,R2,Senior Unity Developer - Architecture / Tools,HH,reject,0,2024-07-20,gamedev,0.407,7,5
+app3_00994,cand_05,R2,Senior Unity Developer - Architecture / Tools,HH,reject,0,2024-05-31,gamedev,0.283,5,4
+app3_00995,cand_06,R1,Senior Unity Developer - Architecture / Tools,HH,ignore,0,2024-10-03,gamedev,0.129,10,3
+app3_00996,cand_01,R3,Senior Unity Developer - Multiplayer (Photon),LinkedIn,ignore,0,2024-10-03,gamedev,0.707,10,3
+app3_00997,cand_05,R1,Unity Developer (Middle) - Mobile F2P,HH,reject,0,2024-04-05,gamedev,0.618,4,4
+app3_00998,cand_05,R1,Senior Unity Developer - Multiplayer (Photon),LinkedIn,reject,0,2024-06-15,gamedev,0.177,6,5
+app3_00999,cand_06,R3,Unity Developer - Hypercasual / LiveOps,HH,reject,0,2024-11-11,gamedev,0.767,11,0
+app3_01000,cand_01,R3,Unity Developer - Hypercasual / LiveOps,HH,screening,1,2024-10-28,gamedev,0.651,10,0
+app3_01001,cand_03,R1,Senior Unity Developer - VR/AR,LinkedIn,ignore,0,2024-04-16,gamedev,0.411,4,1
+app3_01002,cand_06,R3,Senior Unity Developer - Multiplayer (Photon),LinkedIn,ignore,0,2024-12-16,gamedev,0.445,12,0
+app3_01003,cand_06,R3,Senior Unity Developer - Multiplayer (Photon),LinkedIn,ignore,0,2024-12-24,gamedev,0.448,12,1
+app3_01004,cand_06,R2,Unity Developer (WebGL) - Casual Games,InGameJob,reject,0,2024-06-08,gamedev,0.503,6,5
+app3_01005,cand_06,R2,Senior Unity Developer - Multiplayer (Photon),LinkedIn,ignore,0,2024-04-20,gamedev,0.393,4,5
+app3_01006,cand_06,R2,Senior Unity Developer - Multiplayer (Photon),LinkedIn,ignore,0,2024-09-13,gamedev,0.396,9,4
+app3_01007,cand_06,R1,Senior Unity Developer - VR/AR,LinkedIn,ignore,0,2024-03-28,gamedev,0.195,3,3
+app3_01008,cand_06,R3,Unity Developer - Hypercasual / LiveOps,HH,ignore,0,2024-03-18,gamedev,0.823,3,0
+app3_01009,cand_02,R3,Senior Unity Developer - VR/AR,LinkedIn,ignore,0,2024-06-26,gamedev,0.62,6,2
+app3_01010,cand_04,R1,Senior Unity Developer - Architecture / Tools,HH,ignore,0,2024-07-09,gamedev,0.37,7,1
+app3_01011,cand_06,R3,Unity Developer (WebGL) - Casual Games,InGameJob,ignore,0,2024-07-02,gamedev,0.59,7,1
+app3_01012,cand_01,R3,Senior Unity Developer - Multiplayer (Photon),LinkedIn,reject,0,2024-06-17,gamedev,0.712,6,0
+app3_01013,cand_03,R2,Unity Developer (Middle) - Mobile F2P,HH,reject,0,2024-01-28,gamedev,0.451,1,6
+app3_01014,cand_04,R1,Senior Unity Developer - Architecture / Tools,HH,ignore,0,2024-06-17,gamedev,0.347,6,0
+app3_01015,cand_01,R2,Senior Unity Developer - Architecture / Tools,HH,reject,0,2024-09-22,gamedev,0.623,9,6
+app3_01016,cand_02,R1,Unity Developer (Middle) - Mobile F2P,HH,ignore,0,2024-01-29,gamedev,0.485,1,0
+app3_01017,cand_02,R1,Unity Developer (Middle) - Mobile F2P,HH,reject,0,2024-02-08,gamedev,0.378,2,3
+app3_01018,cand_06,R2,Senior Unity Developer - Multiplayer (Photon),LinkedIn,reject,0,2024-08-15,gamedev,0.441,8,3
+app3_01019,cand_04,R3,Unity Developer - Hypercasual / LiveOps,HH,reject,0,2024-02-20,gamedev,0.663,2,1
+app3_01020,cand_02,R2,Senior Unity Developer - Architecture / Tools,HH,reject,0,2024-12-07,gamedev,0.614,12,5
+app3_01021,cand_01,R3,Senior Unity Developer - Multiplayer (Photon),LinkedIn,ignore,0,2024-01-23,gamedev,0.696,1,1
+app3_01022,cand_03,R3,Senior Unity Developer - VR/AR,LinkedIn,ignore,0,2024-12-11,gamedev,0.408,12,2
+app3_01023,cand_05,R2,Unity Developer - Hypercasual / LiveOps,HH,reject,0,2024-12-10,gamedev,0.543,12,1
+app3_01024,cand_01,R3,Unity Developer (Middle) - Mobile F2P,HH,test,1,2024-05-24,gamedev,0.678,5,4
+app3_01025,cand_04,R3,Senior Unity Developer - VR/AR,LinkedIn,reject,0,2024-05-01,gamedev,0.684,5,2
+app3_01026,cand_02,R3,Senior Unity Developer - VR/AR,LinkedIn,screening,1,2024-12-10,gamedev,0.743,12,1
+app3_01027,cand_02,R3,Unity Developer - Hypercasual / LiveOps,HH,screening,1,2024-01-19,gamedev,0.576,1,4
+app3_01028,cand_01,R3,Senior Unity Developer - Multiplayer (Photon),LinkedIn,test,1,2024-08-22,gamedev,0.663,8,3
+app3_01029,cand_05,R2,Senior Unity Developer - VR/AR,LinkedIn,reject,0,2024-05-27,gamedev,0.413,5,0
+app3_01030,cand_06,R3,Unity Developer (WebGL) - Casual Games,InGameJob,ignore,0,2024-10-20,gamedev,0.567,10,6
+app3_01031,cand_06,R2,Unity Developer (Middle) - Mobile F2P,HH,ignore,0,2024-12-04,gamedev,0.571,12,2
+app3_01032,cand_02,R3,Unity Developer (Middle) - Mobile F2P,HH,ignore,0,2024-12-06,gamedev,0.703,12,4
+app3_01033,cand_02,R3,Senior Unity Developer - Multiplayer (Photon),LinkedIn,reject,0,2024-10-31,gamedev,0.728,10,3
+app3_01034,cand_01,R1,Senior Unity Developer - Architecture / Tools,HH,ignore,0,2024-06-27,gamedev,0.36,6,3
+app3_01035,cand_05,R1,Senior Unity Developer - Multiplayer (Photon),LinkedIn,reject,0,2024-01-18,gamedev,0.139,1,3
+app3_01036,cand_06,R2,Senior Unity Developer - VR/AR,LinkedIn,reject,0,2024-08-10,gamedev,0.361,8,5
+app3_01037,cand_04,R2,Senior Unity Developer - Multiplayer (Photon),LinkedIn,ignore,0,2024-04-26,gamedev,0.571,4,4
+app3_01038,cand_04,R2,Senior Unity Developer - Multiplayer (Photon),LinkedIn,reject,0,2024-07-15,gamedev,0.566,7,0
+app3_01039,cand_04,R3,Unity Developer - Hypercasual / LiveOps,HH,reject,0,2024-07-18,gamedev,0.646,7,3
+app3_01040,cand_03,R2,Unity Developer (Middle) - Mobile F2P,HH,ignore,0,2024-06-02,gamedev,0.415,6,6
+app3_01041,cand_04,R2,Unity Developer - Hypercasual / LiveOps,HH,reject,0,2024-12-21,gamedev,0.443,12,5
+app3_01042,cand_05,R1,Senior Unity Developer - Multiplayer (Photon),LinkedIn,ignore,0,2024-05-05,gamedev,0.285,5,6
+app3_01043,cand_02,R2,Senior Unity Developer - VR/AR,LinkedIn,ignore,0,2024-12-20,gamedev,0.521,12,4
+app3_01044,cand_03,R1,Unity Developer (Middle) - Mobile F2P,HH,ignore,0,2024-12-27,gamedev,0.344,12,4
+app3_01045,cand_04,R3,Senior Unity Developer - VR/AR,LinkedIn,reject,0,2024-05-20,gamedev,0.768,5,0
+app3_01046,cand_03,R1,Unity Developer (Middle) - Mobile F2P,HH,reject,0,2024-11-11,gamedev,0.286,11,0
+app3_01047,cand_03,R1,Senior Unity Developer - Architecture / Tools,HH,interview,1,2024-10-20,gamedev,0.45,10,6
+app3_01048,cand_01,R3,Unity Developer (WebGL) - Casual Games,InGameJob,reject,0,2024-06-12,gamedev,0.575,6,2
+app3_01049,cand_04,R3,Senior Unity Developer - Multiplayer (Photon),LinkedIn,interview,1,2024-10-27,gamedev,0.719,10,6
+app3_01050,cand_01,R3,Senior Unity Developer - VR/AR,LinkedIn,ignore,0,2024-05-16,gamedev,0.508,5,3
+app3_01051,cand_01,R1,Unity Developer - Hypercasual / LiveOps,HH,ignore,0,2024-06-28,gamedev,0.286,6,4
+app3_01052,cand_02,R2,Unity Developer - Hypercasual / LiveOps,HH,ignore,0,2024-11-10,gamedev,0.559,11,6
+app3_01053,cand_06,R3,Unity Developer - Hypercasual / LiveOps,HH,ignore,0,2024-05-14,gamedev,0.739,5,1
+app3_01054,cand_01,R2,Unity Developer - Hypercasual / LiveOps,HH,ignore,0,2024-07-04,gamedev,0.537,7,3
+app3_01055,cand_02,R3,Senior Unity Developer - Multiplayer (Photon),LinkedIn,screening,1,2024-05-09,gamedev,0.641,5,3
+app3_01056,cand_03,R3,Unity Developer - Hypercasual / LiveOps,HH,test,1,2024-07-30,gamedev,0.761,7,1
+app3_01057,cand_03,R2,Unity Developer (WebGL) - Casual Games,InGameJob,reject,0,2024-04-02,gamedev,0.491,4,1
+app3_01058,cand_06,R3,Unity Developer (Middle) - Mobile F2P,HH,reject,0,2024-12-28,gamedev,0.74,12,5
+app3_01059,cand_02,R1,Unity Developer - Hypercasual / LiveOps,HH,reject,0,2024-04-06,gamedev,0.38,4,5
+app3_01060,cand_05,R3,Senior Unity Developer - Architecture / Tools,HH,ignore,0,2024-12-10,gamedev,0.402,12,1
+app3_01061,cand_01,R1,Senior Unity Developer - VR/AR,LinkedIn,screening,1,2024-10-24,gamedev,0.286,10,3
+app3_01062,cand_05,R1,Senior Unity Developer - VR/AR,LinkedIn,ignore,0,2024-05-11,gamedev,0.128,5,5
+app3_01063,cand_04,R3,Unity Developer - Hypercasual / LiveOps,HH,reject,0,2024-02-16,gamedev,0.603,2,4
+app3_01064,cand_01,R2,Unity Developer (WebGL) - Casual Games,InGameJob,ignore,0,2024-05-05,gamedev,0.536,5,6
+app3_01065,cand_01,R1,Senior Unity Developer - VR/AR,LinkedIn,reject,0,2024-04-11,gamedev,0.345,4,3
+app3_01066,cand_06,R3,Unity Developer (Middle) - Mobile F2P,HH,reject,0,2024-01-10,gamedev,0.663,1,2
+app3_01067,cand_03,R3,Senior Unity Developer - VR/AR,LinkedIn,screening,1,2024-09-06,gamedev,0.509,9,4
+app3_01068,cand_01,R2,Unity Developer (WebGL) - Casual Games,InGameJob,reject,0,2024-03-31,gamedev,0.41,3,6
+app3_01069,cand_03,R3,Senior Unity Developer - VR/AR,LinkedIn,reject,0,2024-07-13,gamedev,0.564,7,5
+app3_01070,cand_05,R1,Senior Unity Developer - VR/AR,LinkedIn,ignore,0,2024-04-01,gamedev,0.198,4,0
+app3_01071,cand_04,R1,Unity Developer (Middle) - Mobile F2P,HH,ignore,0,2024-09-11,gamedev,0.377,9,2
+app3_01072,cand_03,R2,Senior Unity Developer - Architecture / Tools,HH,ignore,0,2024-12-21,gamedev,0.74,12,5
+app3_01073,cand_06,R2,Senior Unity Developer - Multiplayer (Photon),LinkedIn,reject,0,2024-10-13,gamedev,0.413,10,6
+app3_01074,cand_05,R1,Senior Unity Developer - Multiplayer (Photon),LinkedIn,reject,0,2024-06-01,gamedev,0.121,6,5
+app3_01075,cand_05,R2,Unity Developer (WebGL) - Casual Games,InGameJob,ignore,0,2024-09-20,gamedev,0.47,9,4
+app3_01076,cand_01,R3,Senior Unity Developer - VR/AR,LinkedIn,ignore,0,2024-11-09,gamedev,0.557,11,5
+app3_01077,cand_03,R2,Unity Developer - Hypercasual / LiveOps,HH,ignore,0,2024-01-15,gamedev,0.615,1,0
+app3_01078,cand_04,R2,Senior Unity Developer - Multiplayer (Photon),LinkedIn,ignore,0,2024-06-21,gamedev,0.574,6,4
+app3_01079,cand_01,R2,Senior Unity Developer - VR/AR,LinkedIn,ignore,0,2024-05-29,gamedev,0.494,5,2
+app3_01080,cand_01,R1,Senior Unity Developer - Multiplayer (Photon),LinkedIn,screening,1,2024-03-25,gamedev,0.625,3,0
+app3_01081,cand_05,R1,Unity Developer (Middle) - Mobile F2P,HH,reject,0,2024-01-21,gamedev,0.692,1,6
+app3_01082,cand_05,R3,Senior Unity Developer - VR/AR,LinkedIn,ignore,0,2024-11-03,gamedev,0.474,11,6
+app3_01083,cand_01,R1,Senior Unity Developer - Multiplayer (Photon),LinkedIn,reject,0,2024-06-14,gamedev,0.567,6,4
+app3_01084,cand_03,R1,Unity Developer - Hypercasual / LiveOps,HH,ignore,0,2024-05-21,gamedev,0.504,5,1
+app3_01085,cand_03,R3,Senior Unity Developer - VR/AR,LinkedIn,ignore,0,2024-03-24,gamedev,0.481,3,6
+app3_01086,cand_06,R3,Senior Unity Developer - Multiplayer (Photon),LinkedIn,ignore,0,2024-04-20,gamedev,0.46,4,5
+app3_01087,cand_02,R2,Unity Developer (WebGL) - Casual Games,InGameJob,reject,0,2024-01-08,gamedev,0.82,1,0
+app3_01088,cand_03,R3,Unity Developer (WebGL) - Casual Games,InGameJob,reject,0,2024-02-08,gamedev,0.565,2,3
+app3_01089,cand_03,R3,Unity Developer - Hypercasual / LiveOps,HH,screening,1,2024-08-02,gamedev,0.692,8,4
+app3_01090,cand_05,R3,Senior Unity Developer - VR/AR,LinkedIn,ignore,0,2024-10-30,gamedev,0.353,10,2
+app3_01091,cand_05,R1,Unity Developer (Middle) - Mobile F2P,HH,reject,0,2024-12-10,gamedev,0.676,12,1
+app3_01092,cand_06,R1,Senior Unity Developer - Architecture / Tools,HH,ignore,0,2024-02-19,gamedev,0.184,2,0
+app3_01093,cand_06,R3,Senior Unity Developer - Multiplayer (Photon),LinkedIn,ignore,0,2024-11-23,gamedev,0.469,11,5
+app3_01094,cand_06,R3,Unity Developer (Middle) - Mobile F2P,HH,reject,0,2024-02-12,gamedev,0.753,2,0
+app3_01095,cand_02,R2,Senior Unity Developer - Multiplayer (Photon),LinkedIn,reject,0,2024-06-21,gamedev,0.492,6,4
+app3_01096,cand_06,R3,Senior Unity Developer - Multiplayer (Photon),LinkedIn,ignore,0,2024-03-08,gamedev,0.423,3,4
+app3_01097,cand_04,R3,Senior Unity Developer - Architecture / Tools,HH,reject,0,2024-07-07,gamedev,0.562,7,6
+app3_01098,cand_05,R2,Senior Unity Developer - Multiplayer (Photon),LinkedIn,ignore,0,2024-10-24,gamedev,0.376,10,3
+app3_01099,cand_04,R3,Unity Developer (WebGL) - Casual Games,InGameJob,ignore,0,2024-11-08,gamedev,0.609,11,4
+app3_01100,cand_03,R3,Unity Developer - Hypercasual / LiveOps,HH,interview,1,2024-12-12,gamedev,0.62,12,3
+app3_01101,cand_01,R2,Unity Developer (Middle) - Mobile F2P,HH,reject,0,2024-09-08,gamedev,0.527,9,6
+app3_01102,cand_06,R1,Unity Developer (Middle) - Mobile F2P,HH,screening,1,2024-12-14,gamedev,0.527,12,5
+app3_01103,cand_03,R1,Unity Developer (Middle) - Mobile F2P,HH,ignore,0,2024-12-27,gamedev,0.386,12,4
+app3_01104,cand_05,R1,Senior Unity Developer - Multiplayer (Photon),LinkedIn,ignore,0,2024-05-25,gamedev,0.221,5,5
+app3_01105,cand_02,R2,Senior Unity Developer - Multiplayer (Photon),LinkedIn,reject,0,2024-10-15,gamedev,0.554,10,1
+app3_01106,cand_05,R2,Senior Unity Developer - VR/AR,LinkedIn,ignore,0,2024-03-11,gamedev,0.408,3,0
+app3_01107,cand_02,R3,Senior Unity Developer - VR/AR,LinkedIn,ignore,0,2024-01-05,gamedev,0.655,1,4
+app3_01108,cand_03,R3,Unity Developer (WebGL) - Casual Games,InGameJob,ignore,0,2024-04-08,gamedev,0.474,4,0
+app3_01109,cand_06,R1,Unity Developer (Middle) - Mobile F2P,HH,reject,0,2024-04-19,gamedev,0.521,4,4
+app3_01110,cand_02,R3,Unity Developer (Middle) - Mobile F2P,HH,reject,0,2024-10-17,gamedev,0.678,10,3
+app3_01111,cand_04,R3,Unity Developer (WebGL) - Casual Games,InGameJob,reject,0,2024-11-25,gamedev,0.68,11,0
+app3_01112,cand_06,R1,Unity Developer - Hypercasual / LiveOps,HH,test,1,2024-12-16,gamedev,0.648,12,0
+app3_01113,cand_01,R3,Senior Unity Developer - VR/AR,LinkedIn,reject,0,2024-06-18,gamedev,0.552,6,1
+app3_01114,cand_05,R3,Senior Unity Developer - VR/AR,LinkedIn,ignore,0,2024-03-09,gamedev,0.372,3,5
+app3_01115,cand_06,R1,Unity Developer (Middle) - Mobile F2P,HH,reject,0,2024-11-27,gamedev,0.47,11,2
+app3_01116,cand_04,R2,Senior Unity Developer - Multiplayer (Photon),LinkedIn,reject,0,2024-05-31,gamedev,0.574,5,4
+app3_01117,cand_06,R3,Unity Developer (Middle) - Mobile F2P,HH,ignore,0,2024-07-02,gamedev,0.718,7,1
+app3_01118,cand_02,R2,Senior Unity Developer - Architecture / Tools,HH,ignore,0,2024-01-08,gamedev,0.629,1,0
+app3_01119,cand_06,R3,Unity Developer (WebGL) - Casual Games,InGameJob,reject,0,2024-02-01,gamedev,0.614,2,3
+app3_01120,cand_02,R2,Unity Developer - Hypercasual / LiveOps,HH,test,1,2024-05-09,gamedev,0.531,5,3
+app3_01121,cand_06,R2,Senior Unity Developer - Architecture / Tools,HH,reject,0,2024-12-10,gamedev,0.379,12,1
+app3_01122,cand_03,R3,Unity Developer - Hypercasual / LiveOps,HH,reject,0,2024-02-11,gamedev,0.668,2,6
+app3_01123,cand_01,R3,Unity Developer - Hypercasual / LiveOps,HH,reject,0,2024-03-21,gamedev,0.624,3,3
+app3_01124,cand_06,R3,Senior Unity Developer - Architecture / Tools,HH,reject,0,2024-05-03,gamedev,0.365,5,4
+app3_01125,cand_04,R3,Senior Unity Developer - Architecture / Tools,HH,reject,0,2024-07-08,gamedev,0.609,7,0
+app3_01126,cand_05,R1,Senior Unity Developer - Multiplayer (Photon),LinkedIn,reject,0,2024-06-07,gamedev,0.172,6,4
+app3_01127,cand_04,R2,Senior Unity Developer - VR/AR,LinkedIn,ignore,0,2024-09-08,gamedev,0.665,9,6
+app3_01128,cand_06,R1,Senior Unity Developer - VR/AR,LinkedIn,ignore,0,2024-09-07,gamedev,0.345,9,5
+app3_01129,cand_06,R2,Senior Unity Developer - VR/AR,LinkedIn,reject,0,2024-06-03,gamedev,0.41,6,0
+app3_01130,cand_04,R1,Unity Developer (WebGL) - Casual Games,InGameJob,reject,0,2024-02-17,gamedev,0.379,2,5
+app3_01131,cand_03,R2,Senior Unity Developer - Architecture / Tools,HH,ignore,0,2024-02-26,gamedev,0.601,2,0
+app3_01132,cand_06,R2,Senior Unity Developer - VR/AR,LinkedIn,ignore,0,2024-06-15,gamedev,0.421,6,5
+app3_01133,cand_01,R1,Unity Developer (WebGL) - Casual Games,InGameJob,reject,0,2024-05-02,gamedev,0.299,5,3
+app3_01134,cand_03,R3,Unity Developer (WebGL) - Casual Games,InGameJob,screening,1,2024-08-19,gamedev,0.556,8,0
+app3_01135,cand_05,R3,Senior Unity Developer - Architecture / Tools,HH,ignore,0,2024-01-13,gamedev,0.442,1,5
+app3_01136,cand_03,R1,Unity Developer (Middle) - Mobile F2P,HH,ignore,0,2024-03-12,gamedev,0.306,3,1
+app3_01137,cand_06,R3,Senior Unity Developer - VR/AR,LinkedIn,ignore,0,2024-06-17,gamedev,0.47,6,0
+app3_01138,cand_06,R2,Unity Developer - Hypercasual / LiveOps,HH,ignore,0,2024-12-08,gamedev,0.67,12,6
+app3_01139,cand_02,R3,Unity Developer (WebGL) - Casual Games,InGameJob,reject,0,2024-06-13,gamedev,0.777,6,3
+app3_01140,cand_02,R1,Senior Unity Developer - Multiplayer (Photon),LinkedIn,ignore,0,2024-11-06,gamedev,0.483,11,2
+app3_01141,cand_03,R2,Unity Developer - Hypercasual / LiveOps,HH,reject,0,2024-05-20,gamedev,0.687,5,0
+app3_01142,cand_05,R2,Unity Developer (WebGL) - Casual Games,InGameJob,ignore,0,2024-05-01,gamedev,0.566,5,2
+app3_01143,cand_01,R2,Unity Developer (WebGL) - Casual Games,InGameJob,ignore,0,2024-04-27,gamedev,0.584,4,5
+app3_01144,cand_03,R1,Senior Unity Developer - VR/AR,LinkedIn,ignore,0,2024-09-30,gamedev,0.248,9,0
+app3_01145,cand_05,R2,Unity Developer (WebGL) - Casual Games,InGameJob,ignore,0,2024-05-28,gamedev,0.503,5,1
+app3_01146,cand_01,R3,Unity Developer - Hypercasual / LiveOps,HH,ignore,0,2024-07-31,gamedev,0.658,7,2
+app3_01147,cand_04,R3,Unity Developer - Hypercasual / LiveOps,HH,ignore,0,2024-05-15,gamedev,0.569,5,2
+app3_01148,cand_05,R1,Unity Developer (WebGL) - Casual Games,InGameJob,reject,0,2024-01-29,gamedev,0.42,1,0
+app3_01149,cand_06,R3,Senior Unity Developer - VR/AR,LinkedIn,ignore,0,2024-01-07,gamedev,0.509,1,6
+app3_01150,cand_03,R1,Senior Unity Developer - VR/AR,LinkedIn,reject,0,2024-11-08,gamedev,0.294,11,4
+app3_01151,cand_05,R3,Unity Developer (WebGL) - Casual Games,InGameJob,ignore,0,2024-09-19,gamedev,0.523,9,3
+app3_01152,cand_01,R1,Senior Unity Developer - Multiplayer (Photon),LinkedIn,ignore,0,2024-09-22,gamedev,0.49,9,6
+app3_01153,cand_01,R2,Unity Developer - Hypercasual / LiveOps,HH,reject,0,2024-05-31,gamedev,0.507,5,4
+app3_01154,cand_01,R1,Unity Developer (WebGL) - Casual Games,InGameJob,reject,0,2024-11-07,gamedev,0.461,11,3
+app3_01155,cand_01,R2,Unity Developer - Hypercasual / LiveOps,HH,reject,0,2024-01-22,gamedev,0.496,1,0
+app3_01156,cand_01,R3,Senior Unity Developer - Multiplayer (Photon),LinkedIn,reject,0,2024-09-10,gamedev,0.643,9,1
+app3_01157,cand_04,R2,Senior Unity Developer - Multiplayer (Photon),LinkedIn,reject,0,2024-07-09,gamedev,0.567,7,1
+app3_01158,cand_06,R2,Senior Unity Developer - Architecture / Tools,HH,ignore,0,2024-12-15,gamedev,0.357,12,6
+app3_01159,cand_06,R1,Unity Developer - Hypercasual / LiveOps,HH,reject,0,2024-12-22,gamedev,0.565,12,6
+app3_01160,cand_04,R3,Senior Unity Developer - VR/AR,LinkedIn,test,1,2024-05-19,gamedev,0.771,5,6
+app3_01161,cand_06,R2,Unity Developer (WebGL) - Casual Games,InGameJob,ignore,0,2024-07-19,gamedev,0.612,7,4
+app3_01162,cand_03,R1,Senior Unity Developer - Architecture / Tools,HH,interview,1,2024-11-18,gamedev,0.542,11,0
+app3_01163,cand_03,R2,Senior Unity Developer - VR/AR,LinkedIn,reject,0,2024-01-08,gamedev,0.416,1,0
+app3_01164,cand_06,R1,Senior Unity Developer - VR/AR,LinkedIn,ignore,0,2024-07-30,gamedev,0.225,7,1
+app3_01165,cand_04,R2,Unity Developer - Hypercasual / LiveOps,HH,reject,0,2024-10-21,gamedev,0.486,10,0
+app3_01166,cand_05,R3,Senior Unity Developer - Architecture / Tools,HH,ignore,0,2024-05-20,gamedev,0.505,5,0
+app3_01167,cand_01,R1,Unity Developer (WebGL) - Casual Games,InGameJob,reject,0,2024-01-20,gamedev,0.46,1,5
+app3_01168,cand_06,R3,Senior Unity Developer - Architecture / Tools,HH,ignore,0,2024-07-25,gamedev,0.435,7,3
+app3_01169,cand_06,R3,Senior Unity Developer - Multiplayer (Photon),LinkedIn,ignore,0,2024-09-18,gamedev,0.398,9,2
+app3_01170,cand_06,R3,Senior Unity Developer - VR/AR,LinkedIn,ignore,0,2024-04-07,gamedev,0.58,4,6
+app3_01171,cand_04,R2,Unity Developer - Hypercasual / LiveOps,HH,reject,0,2024-08-25,gamedev,0.478,8,6
+app3_01172,cand_04,R2,Unity Developer (WebGL) - Casual Games,InGameJob,reject,0,2024-07-24,gamedev,0.448,7,2
+app3_01173,cand_04,R3,Senior Unity Developer - Multiplayer (Photon),LinkedIn,ignore,0,2024-09-04,gamedev,0.554,9,2
+app3_01174,cand_06,R1,Senior Unity Developer - Architecture / Tools,HH,reject,0,2024-05-06,gamedev,0.206,5,0
+app3_01175,cand_03,R1,Unity Developer - Hypercasual / LiveOps,HH,reject,0,2024-12-19,gamedev,0.47,12,3
+app3_01176,cand_05,R1,Senior Unity Developer - Multiplayer (Photon),LinkedIn,reject,0,2024-03-10,gamedev,0.293,3,6
+app3_01177,cand_05,R2,Unity Developer - Hypercasual / LiveOps,HH,reject,0,2024-01-30,gamedev,0.51,1,1
+app3_01178,cand_05,R3,Unity Developer - Hypercasual / LiveOps,HH,test,1,2024-06-30,gamedev,0.569,6,6
+app3_01179,cand_03,R1,Unity Developer (Middle) - Mobile F2P,HH,reject,0,2024-04-17,gamedev,0.337,4,2
+app3_01180,cand_06,R2,Unity Developer - Hypercasual / LiveOps,HH,screening,1,2024-05-08,gamedev,0.588,5,2
+app3_01181,cand_01,R2,Senior Unity Developer - VR/AR,LinkedIn,ignore,0,2024-09-29,gamedev,0.523,9,6
+app3_01182,cand_01,R2,Unity Developer - Hypercasual / LiveOps,HH,reject,0,2024-10-04,gamedev,0.486,10,4
+app3_01183,cand_04,R3,Senior Unity Developer - Multiplayer (Photon),LinkedIn,ignore,0,2024-12-16,gamedev,0.634,12,0
+app3_01184,cand_06,R1,Senior Unity Developer - Architecture / Tools,HH,reject,0,2024-08-29,gamedev,0.156,8,3
+app3_01185,cand_06,R2,Senior Unity Developer - VR/AR,LinkedIn,ignore,0,2024-12-11,gamedev,0.323,12,2
+app3_01186,cand_01,R3,Unity Developer - Hypercasual / LiveOps,HH,ignore,0,2024-04-18,gamedev,0.616,4,3
+app3_01187,cand_02,R2,Unity Developer - Hypercasual / LiveOps,HH,reject,0,2024-07-07,gamedev,0.411,7,6
+app3_01188,cand_02,R3,Unity Developer (Middle) - Mobile F2P,HH,ignore,0,2024-09-09,gamedev,0.634,9,0
+app3_01189,cand_04,R1,Senior Unity Developer - Architecture / Tools,HH,reject,0,2024-06-20,gamedev,0.27,6,3
+app3_01190,cand_02,R1,Senior Unity Developer - Multiplayer (Photon),LinkedIn,ignore,0,2024-04-11,gamedev,0.445,4,3
+app3_01191,cand_05,R1,Senior Unity Developer - VR/AR,LinkedIn,ignore,0,2024-11-02,gamedev,0.255,11,5
+app3_01192,cand_02,R3,Senior Unity Developer - VR/AR,LinkedIn,ignore,0,2024-06-10,gamedev,0.659,6,0
+app3_01193,cand_03,R2,Unity Developer (Middle) - Mobile F2P,HH,ignore,0,2024-03-16,gamedev,0.483,3,5
+app3_01194,cand_01,R1,Senior Unity Developer - VR/AR,LinkedIn,interview,1,2024-09-21,gamedev,0.373,9,5
+app3_01195,cand_02,R3,Senior Unity Developer - Architecture / Tools,HH,reject,0,2024-03-09,gamedev,0.692,3,5
+app3_01196,cand_05,R1,Senior Unity Developer - VR/AR,LinkedIn,ignore,0,2024-04-16,gamedev,0.329,4,1
+app3_01197,cand_03,R3,Senior Unity Developer - VR/AR,LinkedIn,screening,1,2024-01-24,gamedev,0.666,1,2
+app3_01198,cand_06,R2,Unity Developer - Hypercasual / LiveOps,HH,reject,0,2024-07-29,gamedev,0.647,7,0
+app3_01199,cand_06,R3,Senior Unity Developer - VR/AR,LinkedIn,ignore,0,2024-08-22,gamedev,0.381,8,3
