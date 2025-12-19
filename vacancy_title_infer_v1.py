@@ -1,10 +1,14 @@
 from __future__ import annotations
+import os
 import numpy as np
 from sentence_transformers import SentenceTransformer
 
-MODEL_NAME = "intfloat/multilingual-e5-small"
+os.environ["HF_HUB_OFFLINE"] = "1"
+os.environ["TRANSFORMERS_OFFLINE"] = "1"
+
+MODEL_PATH = r"./models/multilingual-e5-small"
 _model = None
-_cache: dict[str, np.ndarray] = {}
+_cache = {}
 
 KNOWN_VACANCY_TITLES = [
     "Unity Developer (Middle) - Mobile F2P",
@@ -40,7 +44,7 @@ TITLE_PROTOTYPES = {
 def _get_model() -> SentenceTransformer:
     global _model
     if _model is None:
-        _model = SentenceTransformer(MODEL_NAME)
+        _model = SentenceTransformer(MODEL_PATH, local_files_only=True)
     return _model
 
 def _clean(text: str, limit: int = 8000) -> str:
