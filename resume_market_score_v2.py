@@ -26,16 +26,13 @@ def build_similarity_lookup(df: pd.DataFrame):
 def score_one(df_all: pd.DataFrame, market: pd.DataFrame, candidate_id: str, resume_id: str):
     model = load_model()
 
-    # домен резюме (в синтетике всегда gamedev, но оставим как часть интерфейса)
     resume_domain = "gamedev"
 
-    # lookup similarity из исторических строк (MVP proxy)
     sim_df = df_all[
         (df_all["candidate_id"] == candidate_id) &
         (df_all["resume_id"] == resume_id)
     ][["platform", "vacancy_title", "similarity_resume_vacancy"]]
 
-    # fallback если вдруг нет совпадений
     if sim_df.empty:
         raise ValueError("Нет данных по этому candidate_id+resume_id в датасете")
 
@@ -45,7 +42,6 @@ def score_one(df_all: pd.DataFrame, market: pd.DataFrame, candidate_id: str, res
               .to_dict()
     )
 
-    # строим виртуальные строки рынка
     rows = []
     for _, r in market.iterrows():
         key = (r["platform"], r["vacancy_title"])
@@ -55,7 +51,6 @@ def score_one(df_all: pd.DataFrame, market: pd.DataFrame, candidate_id: str, res
             "vacancy_title": r["vacancy_title"],
             "resume_domain": resume_domain,
             "similarity_resume_vacancy": sim,
-            # date features можно фиксировать нейтрально
             "apply_month": 6,
             "apply_dow": 2
         })
